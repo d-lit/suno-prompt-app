@@ -1,0 +1,19 @@
+{
+  "eslint.useFlatConfig": true,
+  "eslint.run": "onSave",
+  "eslint.quiet": false,
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact"
+  ],
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit",
+    "source.fixAll.stylelint": "explicit",
+    "source.fixAll.prettier": "never"
+  },
+  "eslint.workingDirectories": [{ "mode": "auto" }, { "pattern": "./src" }],
+  "files.insertFinalNewline": true,
+  "files.trimTrailingWhitespace": true
+}

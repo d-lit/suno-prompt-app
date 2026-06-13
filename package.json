@@ -1,0 +1,44 @@
+{
+  "name": "prompt-app",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "db": "node scripts/preset-db.mjs",
+    "start": "concurrently \"npm run dev\" \"npm run db\"",
+    "build": "tsc -b && vite build",
+    "collect": "node scripts/collect.cjs",
+    "lint": "yarn run prettier; yarn run eslint",
+    "lint:fix": "yarn run eslint:fix; yarn run prettier:fix",
+    "eslint": "eslint 'src/**/*.{ts,tsx,json}'",
+    "eslint:fix": "eslint --fix 'src/**/*.{ts,tsx,json}'",
+    "prettier": "prettier --check 'src/**/*.{ts,tsx,json}'",
+    "prettier:fix": "prettier --write 'src/**/*.{ts,tsx,json}'"
+  },
+  "dependencies": {
+    "react": "^19.2.5",
+    "react-dom": "^19.2.5"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "@types/node": "^24.12.2",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^6.0.1",
+    "concurrently": "^9.2.1",
+    "eslint": "9.39.1",
+    "eslint-plugin-import-x": "4.16.1",
+    "eslint-plugin-perfectionist": "5.6.0",
+    "eslint-plugin-react": "7.37.5",
+    "eslint-plugin-react-hooks": "7.0.1",
+    "eslint-plugin-react-refresh": "0.4.24",
+    "globals": "^17.5.0",
+    "prettier": "3.8.1",
+    "typescript": "~6.0.2",
+    "typescript-eslint": "^8.58.2",
+    "vite": "^8.0.10",
+    "vite-plugin-externalize-deps": "0.10.0",
+    "vite-tsconfig-paths": "6.1.1"
+  }
+}

@@ -1,0 +1,448 @@
+import { PromptTag } from '~/types';
+
+export default [
+  {
+    id: 'two_step_groove',
+    comment:
+      'Основной UKG-ритм. Один из сильных ритмических якорей: shuffled hats, offbeat kicks, syncopated garage swing.',
+    group: 'garage',
+    label: '2-Step Groove',
+    positive: [
+      { text: '2-step groove' },
+      { text: 'shuffled hi-hats' },
+      { text: 'offbeat kick placement' },
+      { text: 'tight snare' },
+      { text: 'garage swing' },
+    ],
+    type: 'rhythm',
+  },
+  {
+    id: 'minimal_two_step',
+    comment:
+      'Сухой и контролируемый 2-step. Меньше swing и больше precision, space, repetition.',
+    group: 'garage',
+    label: 'Minimal 2-Step',
+    positive: [
+      { text: 'minimal 2-step drums' },
+      { text: 'crisp hi-hats' },
+      { text: 'sparse kicks' },
+      { text: 'tight snare' },
+      { text: 'controlled groove' },
+    ],
+    type: 'rhythm',
+  },
+  {
+    id: 'deep_shuffled_two_step',
+    comment:
+      'Глубокий shuffled 2-step для deep garage / underground UKG. Хорош для restrained nocturnal grooves.',
+    group: 'garage',
+    label: 'Deep Shuffled 2-Step',
+    positive: [
+      { text: 'deep shuffled 2-step rhythm' },
+      { text: 'dusty drum texture' },
+      { text: 'tight hi-hats' },
+      { text: 'solid snare placement' },
+      { text: 'negative space' },
+    ],
+    type: 'rhythm',
+  },
+  {
+    id: 'four_by_four',
+    comment:
+      'Базовый 4x4 pulse для house, deep house, ghetto house и hybrid UKG.',
+    group: 'house',
+    label: '4x4 Pulse',
+    positive: [
+      { text: 'steady four-on-the-floor pulse' },
+      { text: '4x4 kick' },
+      { text: 'warm kick drum' },
+      { text: 'club pulse' },
+      { text: 'hypnotic repetition' },
+    ],
+    type: 'rhythm',
+  },
+  {
+    id: 'four_by_four_two_step_hybrid',
+    comment:
+      'Гибрид 4x4 kick + 2-step groove. Хорош для ghetto garage и jazz/UKG hybrids.',
+    group: 'hybrid',
+    label: '4x4 + 2-Step Hybrid',
+    positive: [
+      { text: '4x4 kick layered with 2-step groove' },
+      { text: 'syncopated swing' },
+      { text: 'shuffled drums' },
+      { text: 'club-focused pulse' },
+      { text: 'deep 2-step movement' },
+    ],
+    type: 'rhythm',
+  },
+  {
+    id: 'broken_rhythm',
+    comment:
+      'Широкий broken rhythm слой для UK Bass, raw house, leftfield electronic и abstract grooves.',
+    group: 'broken',
+    label: 'Broken Rhythm',
+    positive: [
+      { text: 'broken rhythm' },
+      { text: 'fragmented rhythmic structure' },
+      { text: 'irregular accents' },
+      { text: 'off-grid timing' },
+      { text: 'forward-moving groove' },
+    ],
+    type: 'rhythm',
+  },
+  {
+    id: 'broken_beat_groove',
+    comment:
+      'Broken beat как более музыкальный и club-jazz groove: syncopation, ghost notes, hip-hop swing.',
+    group: 'broken',
+    label: 'Broken Beat Groove',
+    positive: [
+      { text: 'broken beat groove' },
+      { text: 'syncopated broken beat feel' },
+      { text: 'hip-hop influenced swing' },
+      { text: 'ghost notes' },
+      { text: 'jazzy cymbal work' },
+    ],
+    type: 'rhythm',
+  },
+  {
+    id: 'amen_breaks',
+    comment:
+      'Крайне сильный драмовый бустер. Даже вне DnB/Jungle тянет в drumfunk, break manipulation и rolling edits.',
+    group: 'breaks',
+    label: 'Amen Breaks',
+    positive: [
+      { text: 'Amen break' },
+      { text: 'Amen-inspired breakbeats' },
+      { text: 'chopped Amen edits' },
+      { text: 'rolling break manipulation' },
+      { text: 'ghost notes and rapid fills' },
+    ],
+    type: 'rhythm',
+  },
+  {
+    id: 'amen_fragments',
+    comment:
+      'Amen как текстура, а не основной break loop. Хорошо для UK Bass / 140 / house hybrids.',
+    group: 'breaks',
+    label: 'Amen Fragments',
+    positive: [
+      { text: 'chopped amen fragments' },
+      { text: 'amen break used as texture' },
+      { text: 'fragmented amen elements' },
+      { text: 'ghost break patterns' },
+      { text: 'light break texture' },
+    ],
+    type: 'rhythm',
+  },
+  {
+    id: 'classic_breakbeat_foundation',
+    comment: 'Классический breakbeat/DnB/Jungle фундамент без modern gloss.',
+    group: 'breaks',
+    label: 'Classic Breakbeat Foundation',
+    positive: [
+      { text: 'classic breakbeat foundation' },
+      { text: 'natural drum dynamics' },
+      { text: 'raw break texture' },
+      { text: 'hardware sampler character' },
+      { text: 'no modern quantized feel' },
+    ],
+    type: 'rhythm',
+  },
+  {
+    id: 'drumfunk_programming',
+    comment:
+      'Сложная drumfunk фразировка: irregular accents, shifting groove, expressive but not overcrowded.',
+    group: 'breaks',
+    label: 'Drumfunk Programming',
+    positive: [
+      { text: 'advanced drumfunk programming' },
+      { text: 'fractured breakbeats' },
+      { text: 'irregular phrasing' },
+      { text: 'shifting accents' },
+      { text: 'chaos driven by phrasing, not hit count' },
+    ],
+    type: 'rhythm',
+  },
+  {
+    id: 'rolling_dnb_breaks',
+    comment: 'Rolling DnB breakbeats для liquid, atmospheric и acid-jazz DnB.',
+    group: 'breaks',
+    label: 'Rolling DnB Breaks',
+    positive: [
+      { text: 'rolling breakbeats' },
+      { text: 'smooth rolling breakbeats' },
+      { text: 'fluid movement' },
+      { text: 'deep sub bass locked to the break' },
+      { text: '170 BPM' },
+    ],
+    type: 'rhythm',
+  },
+  {
+    id: 'kitchen_funk_percussion',
+    comment:
+      'Сильный модификатор абстрактной перкуссии: found sounds, clicks, rustles, metal, wood, kitchen-object sounds.',
+    group: 'experimental',
+    label: 'Kitchen Funk Percussion',
+    positive: [
+      { text: 'dry kitchen-funk percussion' },
+      { text: 'found sounds' },
+      { text: 'metallic clicks' },
+      { text: 'wood taps' },
+      { text: 'kitchen-object sounds' },
+    ],
+    type: 'rhythm',
+  },
+  {
+    id: 'found_sound_micro_percussion',
+    comment:
+      'Микро-перкуссия из объектных звуков. Менее kitchen-specific, больше sound-design.',
+    group: 'experimental',
+    label: 'Found-Sound Micro Percussion',
+    positive: [
+      { text: 'found-sound percussion' },
+      { text: 'syncopated micro-percussion' },
+      { text: 'tiny rhythmic details' },
+      { text: 'fragmented percussive elements' },
+      { text: 'organic and synthetic textures' },
+    ],
+    type: 'rhythm',
+  },
+  {
+    id: 'glitch_micro_edits',
+    comment:
+      'Glitch / micro-edit ритмика. Добавляет detailed edits, granular fragments и sharp rhythmic motion.',
+    group: 'experimental',
+    label: 'Glitch Micro Edits',
+    positive: [
+      { text: 'glitchy micro-edits' },
+      { text: 'subtle glitch percussion accents' },
+      { text: 'granular digital artifacts' },
+      { text: 'micro rhythmic edits' },
+      { text: 'fragmented digital textures' },
+    ],
+    type: 'rhythm',
+  },
+  {
+    id: 'tribal_polyrhythm',
+    comment:
+      'Сильный tribal/Afro ритмический слой: congas, shakers, hand drums, wood percussion, ritual motion.',
+    group: 'tribal',
+    label: 'Tribal Polyrhythm',
+    positive: [
+      { text: 'tribal percussion layers' },
+      { text: 'Afro-style syncopation' },
+      { text: 'congas, shakers, wood percussion' },
+      { text: 'polyrhythmic groove' },
+      { text: 'ritual-like movement' },
+    ],
+    type: 'rhythm',
+  },
+  {
+    id: 'afro_hand_percussion',
+    comment:
+      'Более мягкий Afro percussion слой для deep house / tribal / Balearic hybrids.',
+    group: 'tribal',
+    label: 'Afro Hand Percussion',
+    positive: [
+      { text: 'layered hand percussion' },
+      { text: 'Afro-style rhythms' },
+      { text: 'congas and shakers' },
+      { text: 'organic percussion patterns' },
+      { text: 'fluid groove' },
+    ],
+    type: 'rhythm',
+  },
+  {
+    id: 'bossa_swing',
+    comment:
+      'Bossa swing как мягкий rhythmic offset: shaker, rim, guitar comping, gentle swing.',
+    group: 'latin',
+    label: 'Bossa Swing',
+    positive: [
+      { text: 'soft bossa swing' },
+      { text: 'light bossa-style percussion accents' },
+      { text: 'shaker' },
+      { text: 'rim accents' },
+      { text: 'gentle swing' },
+    ],
+    type: 'rhythm',
+  },
+  {
+    id: 'bossa_offset',
+    comment: 'Совсем тонкий bossa hint без жанрового разворота.',
+    group: 'latin',
+    label: 'Bossa Offset',
+    positive: [
+      { text: 'subtle rhythmic offset' },
+      { text: 'very subtle offbeat accents hinting at bossa' },
+      { text: 'minimal percussion' },
+      { text: 'organic feel' },
+      { text: 'soft syncopation' },
+    ],
+    type: 'rhythm',
+  },
+  {
+    id: 'hip_hop_swing',
+    comment:
+      'Hip-hop swing / Dilla feel без ухода в boom-bap. Хорошо для UK jazz, acid-jazz, broken beat, deep house vocals.',
+    group: 'swing',
+    label: 'Hip-Hop Swing',
+    positive: [
+      { text: 'hip-hop swing feel' },
+      { text: 'loose human swing' },
+      { text: 'hard swing' },
+      { text: 'MPC-style groove' },
+      { text: 'head-nod groove' },
+    ],
+    type: 'rhythm',
+  },
+  {
+    id: 'dilla_groove',
+    comment:
+      'Dilla-style loose swing / deep pocket. Работает как relaxed groove modifier.',
+    group: 'swing',
+    label: 'Dilla Groove',
+    positive: [
+      { text: 'Dilla-style drum groove' },
+      { text: 'loose swing' },
+      { text: 'deep pocket rhythm' },
+      { text: 'relaxed human timing' },
+      { text: 'subtle ghost notes' },
+    ],
+    type: 'rhythm',
+  },
+  {
+    id: 'garage_swing',
+    comment:
+      'Garage-specific swing: shuffled hats, syncopated kicks, offbeat movement.',
+    group: 'swing',
+    label: 'Garage Swing',
+    positive: [
+      { text: 'garage swing' },
+      { text: 'syncopated kick pattern' },
+      { text: 'off-beat shuffled hi-hats' },
+      { text: 'shuffled drums' },
+      { text: 'tight snare placement' },
+    ],
+    type: 'rhythm',
+  },
+  {
+    id: 'heavy_swing',
+    comment: 'Более явный swing для speed garage / party UKG / shout-step.',
+    group: 'swing',
+    label: 'Heavy Swing',
+    positive: [
+      { text: 'heavy swing' },
+      { text: 'punchy kitchen-funk' },
+      { text: 'sparse 2-step' },
+      { text: 'heavy kick' },
+      { text: 'ghost snares' },
+    ],
+    type: 'rhythm',
+  },
+  {
+    id: 'light_swing',
+    comment:
+      'Лёгкий swing для cerebral UKG, deep house, Balearic и minimal grooves.',
+    group: 'swing',
+    label: 'Light Swing',
+    positive: [
+      { text: 'light swing' },
+      { text: 'subtle swing' },
+      { text: 'gentle rhythmic movement' },
+      { text: 'controlled groove' },
+      { text: 'relaxed timing' },
+    ],
+    type: 'rhythm',
+  },
+  {
+    id: 'off_grid_timing',
+    comment:
+      'Off-grid timing как общий модификатор живого и нестабильного грува.',
+    group: 'timing',
+    label: 'Off-Grid Timing',
+    positive: [
+      { text: 'off-grid timing' },
+      { text: 'irregular accents' },
+      { text: 'natural gaps' },
+      { text: 'unexpected accents' },
+      { text: 'slightly imperfect timing' },
+    ],
+    type: 'rhythm',
+  },
+  {
+    id: 'ghost_notes',
+    comment: 'Ghost notes как универсальный усилитель живости барабанов.',
+    group: 'timing',
+    label: 'Ghost Notes',
+    positive: [
+      { text: 'ghost notes' },
+      { text: 'dense ghost notes' },
+      { text: 'subtle ghost notes' },
+      { text: 'expressive placement' },
+      { text: 'dynamic snare accents' },
+    ],
+    type: 'rhythm',
+  },
+  {
+    id: 'sparse_drums',
+    comment:
+      'Sparse drums / negative space. Полезно для minimal UKG, deep house, UK bass, abstract dub.',
+    group: 'density',
+    label: 'Sparse Drums',
+    positive: [
+      { text: 'sparse drums' },
+      { text: 'minimal kick and snare' },
+      { text: 'space between hits' },
+      { text: 'negative space' },
+      { text: 'controlled placement' },
+    ],
+    type: 'rhythm',
+  },
+  {
+    id: 'dense_breaks',
+    comment: 'Плотные брейки для Jungle / Drumfunk / Paradox-like энергии.',
+    group: 'density',
+    label: 'Dense Breaks',
+    positive: [
+      { text: 'high rhythmic density' },
+      { text: 'constant forward motion' },
+      { text: 'rapid rearrangements' },
+      { text: 'rolling percussive detail' },
+      { text: 'complex break manipulation' },
+    ],
+    type: 'rhythm',
+  },
+  {
+    id: 'no_clear_pulse',
+    comment:
+      'Для LAZNCY / ASMR / abstract sketches. Работает ограниченно: Suno всё равно может вернуть ритм.',
+    group: 'abstract_time',
+    label: 'No Clear Pulse',
+    positive: [
+      { text: 'free timing' },
+      { text: 'no clear pulse' },
+      { text: 'suspended timing' },
+      { text: 'movement from micro-events' },
+      { text: 'no repeating groove' },
+    ],
+    type: 'rhythm',
+  },
+  {
+    id: 'single_event_anchor',
+    comment:
+      'Композиционная техника: редкое повторяющееся событие как точка внимания.',
+    group: 'abstract_time',
+    label: 'Single Event Anchor',
+    positive: [
+      { text: 'single recurring sound as an anchor' },
+      { text: 'appears irregularly' },
+      { text: 'without forming a pattern' },
+      { text: 'occasional point of attention' },
+      { text: 'extremely sparse focal events' },
+    ],
+    type: 'rhythm',
+  },
+] as PromptTag[];
