@@ -1,7 +1,7 @@
 import { PromptTag, PromptTemplate } from '~/types';
 
 import animeTags from './tags/anime';
-import atmosphereTags from './tags/atmosphere';
+// import atmosphereTags from './tags/atmosphere';
 import genresTags from './tags/genres';
 import rhythmsTags from './tags/rhythms';
 import soundTags from './tags/sound';
@@ -14,7 +14,7 @@ export const templates: PromptTemplate[] = [defaultTemplate];
 
 export const tags: PromptTag[] = [
   ...animeTags,
-  ...atmosphereTags,
+  // ...atmosphereTags,
   ...genresTags,
   ...soundTags,
   ...rhythmsTags,
