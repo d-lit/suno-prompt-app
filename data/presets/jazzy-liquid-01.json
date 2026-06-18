@@ -1,0 +1,225 @@
+{
+  "id": "b25f50b3-9e6c-4367-a828-c446a3471d80",
+  "activeTags": [
+    {
+      "tagId": "warm_night",
+      "type": "atmosphere",
+      "positive": [
+        {
+          "text": "warm night atmosphere",
+          "weight": 1
+        },
+        {
+          "text": "comfortable night air",
+          "weight": 1
+        },
+        {
+          "text": "slow evening movement",
+          "weight": 1
+        },
+        {
+          "text": "night under open sky",
+          "weight": 1
+        },
+        {
+          "text": "gentle nocturnal warmth",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "uk_garage",
+      "type": "genre",
+      "positive": [
+        {
+          "text": "UK garage",
+          "weight": 1
+        },
+        {
+          "text": "2-step groove",
+          "weight": 1
+        },
+        {
+          "text": "shuffled drums",
+          "weight": 1
+        },
+        {
+          "text": "syncopated swing",
+          "weight": 1
+        },
+        {
+          "text": "deep sub bass",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "jazzy",
+      "type": "style",
+      "positive": [
+        {
+          "text": "jazzy harmony",
+          "weight": 1
+        },
+        {
+          "text": "extended chords",
+          "weight": 1
+        },
+        {
+          "text": "m7 and m9 chords",
+          "weight": 1
+        },
+        {
+          "text": "warm Rhodes chords",
+          "weight": 1
+        },
+        {
+          "text": "subtle harmonic motion",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "heavy_swing",
+      "type": "rhythm",
+      "positive": [
+        {
+          "text": "heavy swing",
+          "weight": 1
+        },
+        {
+          "text": "punchy kitchen-funk",
+          "weight": 1
+        },
+        {
+          "text": "sparse 2-step",
+          "weight": 1
+        },
+        {
+          "text": "heavy kick",
+          "weight": 1
+        },
+        {
+          "text": "ghost snares",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "amen_breaks",
+      "type": "rhythm",
+      "positive": [
+        {
+          "text": "Amen break",
+          "weight": 1
+        },
+        {
+          "text": "Amen-inspired breakbeats",
+          "weight": 1
+        },
+        {
+          "text": "chopped Amen edits",
+          "weight": 1
+        },
+        {
+          "text": "rolling break manipulation",
+          "weight": 1
+        },
+        {
+          "text": "ghost notes and rapid fills",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "no_clear_pulse",
+      "type": "rhythm",
+      "positive": [
+        {
+          "text": "free timing",
+          "weight": 1
+        },
+        {
+          "text": "no clear pulse",
+          "weight": 1
+        },
+        {
+          "text": "suspended timing",
+          "weight": 1
+        },
+        {
+          "text": "movement from micro-events",
+          "weight": 1
+        },
+        {
+          "text": "no repeating groove",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "micro_percussion",
+      "type": "sound",
+      "positive": [
+        {
+          "text": "micro-percussion",
+          "weight": 1
+        },
+        {
+          "text": "tiny rhythmic details",
+          "weight": 1
+        },
+        {
+          "text": "small transient events",
+          "weight": 1
+        },
+        {
+          "text": "microscopic groove layers",
+          "weight": 1
+        },
+        {
+          "text": "high-detail rhythm",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "sparse_congas",
+      "type": "sound",
+      "positive": [
+        {
+          "text": "sparse conga accents",
+          "weight": 1
+        },
+        {
+          "text": "minimal conga phrases",
+          "weight": 1
+        },
+        {
+          "text": "occasional hand-drum accents",
+          "weight": 1
+        },
+        {
+          "text": "subtle tribal flavor",
+          "weight": 1
+        },
+        {
+          "text": "controlled percussion detail",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    }
+  ],
+  "categories": [],
+  "label": "Jazzy Liquid 01",
+  "templateId": "default",
+  "fileName": "jazzy-liquid-01.json"
+}

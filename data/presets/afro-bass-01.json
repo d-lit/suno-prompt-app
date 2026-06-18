@@ -1,0 +1,144 @@
+{
+  "id": "81838004-92ff-419a-a75e-a2682dbbf3c8",
+  "activeTags": [
+    {
+      "tagId": "dreamlike",
+      "type": "atmosphere",
+      "positive": [
+        {
+          "text": "dreamlike atmosphere",
+          "weight": 1
+        },
+        {
+          "text": "half-remembered scenes",
+          "weight": 1
+        },
+        {
+          "text": "subtle unreality",
+          "weight": 1
+        },
+        {
+          "text": "slow emotional drift",
+          "weight": 1
+        },
+        {
+          "text": "cinematic dream state",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "uk_bass",
+      "type": "genre",
+      "positive": [
+        {
+          "text": "UK bass",
+          "weight": 1
+        },
+        {
+          "text": "broken rhythm",
+          "weight": 1
+        },
+        {
+          "text": "forward-moving groove",
+          "weight": 1
+        },
+        {
+          "text": "deep sub bass",
+          "weight": 1
+        },
+        {
+          "text": "underground electronic atmosphere",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "warm",
+      "type": "style",
+      "positive": [
+        {
+          "text": "warm",
+          "weight": 1
+        },
+        {
+          "text": "warm analog character",
+          "weight": 1
+        },
+        {
+          "text": "rounded low-end",
+          "weight": 1
+        },
+        {
+          "text": "soft saturation",
+          "weight": 1
+        },
+        {
+          "text": "gentle harmonic color",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "heavy_swing",
+      "type": "rhythm",
+      "positive": [
+        {
+          "text": "heavy swing",
+          "weight": 1
+        },
+        {
+          "text": "punchy kitchen-funk",
+          "weight": 1
+        },
+        {
+          "text": "sparse 2-step",
+          "weight": 1
+        },
+        {
+          "text": "heavy kick",
+          "weight": 1
+        },
+        {
+          "text": "ghost snares",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "afro_syncopation",
+      "type": "sound",
+      "positive": [
+        {
+          "text": "African-inspired rhythmic syncopation",
+          "weight": 1
+        },
+        {
+          "text": "syncopated hand percussion",
+          "weight": 1
+        },
+        {
+          "text": "off-grid percussion accents",
+          "weight": 1
+        },
+        {
+          "text": "organic rhythmic displacement",
+          "weight": 1
+        },
+        {
+          "text": "fluid groove movement",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    }
+  ],
+  "categories": [],
+  "label": "Afro Bass 01",
+  "templateId": "default",
+  "fileName": "afro-bass-01.json"
+}

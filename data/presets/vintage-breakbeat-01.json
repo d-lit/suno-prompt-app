@@ -1,0 +1,171 @@
+{
+  "id": "54ebf302-a386-436a-aa55-25e752cb901a",
+  "activeTags": [
+    {
+      "tagId": "night_drive",
+      "type": "atmosphere",
+      "positive": [
+        {
+          "text": "night drive mood",
+          "weight": 1
+        },
+        {
+          "text": "driving through the city at night",
+          "weight": 1
+        },
+        {
+          "text": "road lights and reflections",
+          "weight": 1
+        },
+        {
+          "text": "cool urban motion",
+          "weight": 1
+        },
+        {
+          "text": "late-night movement",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "broken_beat",
+      "type": "genre",
+      "positive": [
+        {
+          "text": "broken beat",
+          "weight": 1
+        },
+        {
+          "text": "syncopated broken groove",
+          "weight": 1
+        },
+        {
+          "text": "hip-hop swing",
+          "weight": 1
+        },
+        {
+          "text": "ghost notes",
+          "weight": 1
+        },
+        {
+          "text": "club rhythm culture",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "experimental",
+      "type": "style",
+      "positive": [
+        {
+          "text": "experimental",
+          "weight": 1
+        },
+        {
+          "text": "unconventional structure",
+          "weight": 1
+        },
+        {
+          "text": "sound design focus",
+          "weight": 1
+        },
+        {
+          "text": "unusual rhythmic details",
+          "weight": 1
+        },
+        {
+          "text": "raw experimental atmosphere",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "garage_swing",
+      "type": "rhythm",
+      "positive": [
+        {
+          "text": "garage swing",
+          "weight": 1
+        },
+        {
+          "text": "syncopated kick pattern",
+          "weight": 1
+        },
+        {
+          "text": "off-beat shuffled hi-hats",
+          "weight": 1
+        },
+        {
+          "text": "shuffled drums",
+          "weight": 1
+        },
+        {
+          "text": "tight snare placement",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "vintage_drum_machine",
+      "type": "sound",
+      "positive": [
+        {
+          "text": "vintage drum machine",
+          "weight": 1
+        },
+        {
+          "text": "classic electronic drums",
+          "weight": 1
+        },
+        {
+          "text": "retro groove box sound",
+          "weight": 1
+        },
+        {
+          "text": "old-school drum programming",
+          "weight": 1
+        },
+        {
+          "text": "warm electronic rhythm",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "buffer_stutters",
+      "type": "sound",
+      "positive": [
+        {
+          "text": "buffer stutters",
+          "weight": 1
+        },
+        {
+          "text": "repeating digital fragments",
+          "weight": 1
+        },
+        {
+          "text": "stuttering percussion",
+          "weight": 1
+        },
+        {
+          "text": "micro-loop artifacts",
+          "weight": 1
+        },
+        {
+          "text": "digital interruption effects",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    }
+  ],
+  "categories": [],
+  "label": "Vintage Breakbeat 01",
+  "templateId": "default",
+  "fileName": "vintage-breakbeat-01.json"
+}

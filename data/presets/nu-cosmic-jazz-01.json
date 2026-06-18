@@ -1,0 +1,198 @@
+{
+  "id": "7edb5202-9ac6-48dc-b52e-f3f7e55bd1af",
+  "activeTags": [
+    {
+      "tagId": "seaside",
+      "type": "atmosphere",
+      "positive": [
+        {
+          "text": "seaside atmosphere",
+          "weight": 1
+        },
+        {
+          "text": "coastal mood",
+          "weight": 1
+        },
+        {
+          "text": "ocean nearby",
+          "weight": 1
+        },
+        {
+          "text": "salt air",
+          "weight": 1
+        },
+        {
+          "text": "shoreline environment",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "electronic_jazz",
+      "type": "genre",
+      "positive": [
+        {
+          "text": "electronic jazz",
+          "weight": 1
+        },
+        {
+          "text": "modern electronic jazz harmony",
+          "weight": 1
+        },
+        {
+          "text": "polysynth chord textures",
+          "weight": 1
+        },
+        {
+          "text": "expressive analog synth lead",
+          "weight": 1
+        },
+        {
+          "text": "wide cinematic pads",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "cosmic",
+      "type": "style",
+      "positive": [
+        {
+          "text": "cosmic atmosphere",
+          "weight": 1
+        },
+        {
+          "text": "retro futuristic mood",
+          "weight": 1
+        },
+        {
+          "text": "cosmic pads",
+          "weight": 1
+        },
+        {
+          "text": "floating electronic textures",
+          "weight": 1
+        },
+        {
+          "text": "wide spatial depth",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "amen_fragments",
+      "type": "rhythm",
+      "positive": [
+        {
+          "text": "chopped amen fragments",
+          "weight": 1
+        },
+        {
+          "text": "amen break used as texture",
+          "weight": 1
+        },
+        {
+          "text": "fragmented amen elements",
+          "weight": 1
+        },
+        {
+          "text": "ghost break patterns",
+          "weight": 1
+        },
+        {
+          "text": "light break texture",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "afro_hand_percussion",
+      "type": "rhythm",
+      "positive": [
+        {
+          "text": "layered hand percussion",
+          "weight": 1
+        },
+        {
+          "text": "Afro-style rhythms",
+          "weight": 1
+        },
+        {
+          "text": "congas and shakers",
+          "weight": 1
+        },
+        {
+          "text": "organic percussion patterns",
+          "weight": 1
+        },
+        {
+          "text": "fluid groove",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "melodic_electric_bass",
+      "type": "sound",
+      "positive": [
+        {
+          "text": "melodic electric bass",
+          "weight": 1
+        },
+        {
+          "text": "live-feel bass lines",
+          "weight": 1
+        },
+        {
+          "text": "syncopated funk movement",
+          "weight": 1
+        },
+        {
+          "text": "melodic but restrained",
+          "weight": 1
+        },
+        {
+          "text": "bass and drums locked into a deep pocket",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "afro_percussion",
+      "type": "sound",
+      "positive": [
+        {
+          "text": "Afro-inspired percussion",
+          "weight": 1
+        },
+        {
+          "text": "African rhythmic influence",
+          "weight": 1
+        },
+        {
+          "text": "organic percussion patterns",
+          "weight": 1
+        },
+        {
+          "text": "syncopated percussion movement",
+          "weight": 1
+        },
+        {
+          "text": "deep groove foundation",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    }
+  ],
+  "categories": [],
+  "label": "Nu Cosmic Jazz 01",
+  "templateId": "default",
+  "fileName": "nu-cosmic-jazz-01.json"
+}

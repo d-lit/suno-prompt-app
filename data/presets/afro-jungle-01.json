@@ -1,0 +1,168 @@
+{
+  "id": "87083895-3bfc-490b-9744-5ffa98fcd7f5",
+  "activeTags": [
+    {
+      "tagId": "fresh_air",
+      "type": "atmosphere",
+      "positive": [
+        {
+          "text": "fresh air",
+          "weight": 1
+        },
+        {
+          "text": "breathing space",
+          "weight": 1
+        },
+        {
+          "text": "open environment",
+          "weight": 1
+        },
+        {
+          "text": "light atmosphere",
+          "weight": 1
+        },
+        {
+          "text": "natural openness",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "uk_bass",
+      "type": "genre",
+      "positive": [
+        {
+          "text": "UK bass",
+          "weight": 1
+        },
+        {
+          "text": "broken rhythm",
+          "weight": 1
+        },
+        {
+          "text": "forward-moving groove",
+          "weight": 1
+        },
+        {
+          "text": "deep sub bass",
+          "weight": 1
+        },
+        {
+          "text": "underground electronic atmosphere",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "afro_influenced",
+      "type": "style",
+      "positive": [
+        {
+          "text": "Afro-style rhythms",
+          "weight": 1
+        },
+        {
+          "text": "African-inspired rhythmic syncopation",
+          "weight": 1
+        },
+        {
+          "text": "hand percussion",
+          "weight": 1
+        },
+        {
+          "text": "organic percussion patterns",
+          "weight": 1
+        },
+        {
+          "text": "fluid polyrhythmic motion",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "drumfunk_programming",
+      "type": "rhythm",
+      "positive": [
+        {
+          "text": "advanced drumfunk programming",
+          "weight": 1
+        },
+        {
+          "text": "fractured breakbeats",
+          "weight": 1
+        },
+        {
+          "text": "irregular phrasing",
+          "weight": 1
+        },
+        {
+          "text": "shifting accents",
+          "weight": 1
+        },
+        {
+          "text": "chaos driven by phrasing, not hit count",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "tagId": "street_level_jazz",
+      "type": "anime",
+      "positive": [
+        {
+          "text": "street-level jazz",
+          "weight": 1
+        },
+        {
+          "text": "city life through jazz",
+          "weight": 1
+        },
+        {
+          "text": "urban realism",
+          "weight": 1
+        },
+        {
+          "text": "human-scale stories",
+          "weight": 1
+        },
+        {
+          "text": "everyday city tension",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "tagId": "atmospheric_dnb",
+      "type": "genre",
+      "positive": [
+        {
+          "text": "atmospheric drum and bass",
+          "weight": 1
+        },
+        {
+          "text": "intelligent 90s drum and bass spirit",
+          "weight": 1
+        },
+        {
+          "text": "smooth rolling breakbeats",
+          "weight": 1
+        },
+        {
+          "text": "airy atmospheric pads",
+          "weight": 1
+        },
+        {
+          "text": "emotional but restrained mood",
+          "weight": 1
+        }
+      ]
+    }
+  ],
+  "categories": [],
+  "label": "Afro Jungle 01",
+  "templateId": "default",
+  "fileName": "afro-jungle-01.json"
+}

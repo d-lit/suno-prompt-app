@@ -1,0 +1,224 @@
+{
+  "id": "33c4b83d-3d92-4222-a1c4-04d163f76656",
+  "activeTags": [
+    {
+      "tagId": "visual_poetry",
+      "type": "atmosphere",
+      "positive": [
+        {
+          "text": "visual poetry atmosphere",
+          "weight": 1
+        },
+        {
+          "text": "images behaving like poetry",
+          "weight": 1
+        },
+        {
+          "text": "lyrical cinematic feeling",
+          "weight": 1
+        },
+        {
+          "text": "quiet symbolic beauty",
+          "weight": 1
+        },
+        {
+          "text": "emotional image fragments",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "asmr_electronic",
+      "type": "genre",
+      "positive": [
+        {
+          "text": "ASMR-inspired electronic texture",
+          "weight": 1
+        },
+        {
+          "text": "close tactile sounds",
+          "weight": 1
+        },
+        {
+          "text": "micro-events",
+          "weight": 1
+        },
+        {
+          "text": "soft noise layers",
+          "weight": 1
+        },
+        {
+          "text": "intimate listening space",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "hypnotic",
+      "type": "style",
+      "positive": [
+        {
+          "text": "hypnotic",
+          "weight": 1
+        },
+        {
+          "text": "loop-driven structure",
+          "weight": 1
+        },
+        {
+          "text": "repetitive groove",
+          "weight": 1
+        },
+        {
+          "text": "deep pocket",
+          "weight": 1
+        },
+        {
+          "text": "slow evolving movement",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "bossa_offset",
+      "type": "rhythm",
+      "positive": [
+        {
+          "text": "subtle rhythmic offset",
+          "weight": 1
+        },
+        {
+          "text": "very subtle offbeat accents hinting at bossa",
+          "weight": 1
+        },
+        {
+          "text": "minimal percussion",
+          "weight": 1
+        },
+        {
+          "text": "organic feel",
+          "weight": 1
+        },
+        {
+          "text": "soft syncopation",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "amen_fragments",
+      "type": "rhythm",
+      "positive": [
+        {
+          "text": "chopped amen fragments",
+          "weight": 1
+        },
+        {
+          "text": "amen break used as texture",
+          "weight": 1
+        },
+        {
+          "text": "fragmented amen elements",
+          "weight": 1
+        },
+        {
+          "text": "ghost break patterns",
+          "weight": 1
+        },
+        {
+          "text": "light break texture",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "soft_bossa_shakers",
+      "type": "sound",
+      "positive": [
+        {
+          "text": "soft bossa shakers",
+          "weight": 1
+        },
+        {
+          "text": "gentle shaker movement",
+          "weight": 1
+        },
+        {
+          "text": "light tropical texture",
+          "weight": 1
+        },
+        {
+          "text": "subtle rhythmic air",
+          "weight": 1
+        },
+        {
+          "text": "organic groove detail",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "found_sounds",
+      "type": "sound",
+      "positive": [
+        {
+          "text": "found sounds",
+          "weight": 1
+        },
+        {
+          "text": "field-recorded objects",
+          "weight": 1
+        },
+        {
+          "text": "everyday sound sources",
+          "weight": 1
+        },
+        {
+          "text": "non-musical sounds used rhythmically",
+          "weight": 1
+        },
+        {
+          "text": "organic texture events",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "ghetto",
+      "type": "style",
+      "positive": [
+        {
+          "text": "ghetto",
+          "weight": 1
+        },
+        {
+          "text": "street-level energy",
+          "weight": 1
+        },
+        {
+          "text": "raw underground character",
+          "weight": 1
+        },
+        {
+          "text": "club-focused pulse",
+          "weight": 1
+        },
+        {
+          "text": "unpolished groove",
+          "weight": 1
+        }
+      ]
+    }
+  ],
+  "categories": [],
+  "label": "Smooth Bossa 01",
+  "templateId": "default",
+  "fileName": "smooth-bossa-01.json"
+}

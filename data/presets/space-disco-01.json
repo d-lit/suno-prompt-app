@@ -1,0 +1,171 @@
+{
+  "id": "e9d10b00-be2b-4b13-b87b-34d8df617eb0",
+  "activeTags": [
+    {
+      "tagId": "everyday_moments",
+      "type": "atmosphere",
+      "positive": [
+        {
+          "text": "everyday moments",
+          "weight": 1
+        },
+        {
+          "text": "ordinary life scenes",
+          "weight": 1
+        },
+        {
+          "text": "small human gestures",
+          "weight": 1
+        },
+        {
+          "text": "unremarkable but meaningful details",
+          "weight": 1
+        },
+        {
+          "text": "quiet daily reality",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "space_disco",
+      "type": "genre",
+      "positive": [
+        {
+          "text": "space-disco atmosphere",
+          "weight": 1
+        },
+        {
+          "text": "cosmic pads",
+          "weight": 1
+        },
+        {
+          "text": "arpeggiated space-disco melodies",
+          "weight": 1
+        },
+        {
+          "text": "retro futuristic atmosphere",
+          "weight": 1
+        },
+        {
+          "text": "80s analog and FM synthesizers",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "experimental",
+      "type": "style",
+      "positive": [
+        {
+          "text": "experimental",
+          "weight": 1
+        },
+        {
+          "text": "unconventional structure",
+          "weight": 1
+        },
+        {
+          "text": "sound design focus",
+          "weight": 1
+        },
+        {
+          "text": "unusual rhythmic details",
+          "weight": 1
+        },
+        {
+          "text": "raw experimental atmosphere",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "deep_shuffled_two_step",
+      "type": "rhythm",
+      "positive": [
+        {
+          "text": "deep shuffled 2-step rhythm",
+          "weight": 1
+        },
+        {
+          "text": "dusty drum texture",
+          "weight": 1
+        },
+        {
+          "text": "tight hi-hats",
+          "weight": 1
+        },
+        {
+          "text": "solid snare placement",
+          "weight": 1
+        },
+        {
+          "text": "negative space",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "ghost_notes",
+      "type": "rhythm",
+      "positive": [
+        {
+          "text": "ghost notes",
+          "weight": 1
+        },
+        {
+          "text": "dense ghost notes",
+          "weight": 1
+        },
+        {
+          "text": "subtle ghost notes",
+          "weight": 1
+        },
+        {
+          "text": "expressive placement",
+          "weight": 1
+        },
+        {
+          "text": "dynamic snare accents",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "polyrhythmic_percussion",
+      "type": "sound",
+      "positive": [
+        {
+          "text": "polyrhythmic percussion",
+          "weight": 1
+        },
+        {
+          "text": "interlocking rhythmic layers",
+          "weight": 1
+        },
+        {
+          "text": "complex rhythmic interaction",
+          "weight": 1
+        },
+        {
+          "text": "multiple rhythmic cycles",
+          "weight": 1
+        },
+        {
+          "text": "organic rhythmic complexity",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    }
+  ],
+  "categories": [],
+  "label": "Space Disco 01",
+  "templateId": "default",
+  "fileName": "space-disco-01.json"
+}

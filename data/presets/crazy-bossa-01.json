@@ -1,0 +1,198 @@
+{
+  "id": "c604d62e-9558-4054-beef-1405b11cedd9",
+  "activeTags": [
+    {
+      "tagId": "bossa_nova",
+      "type": "genre",
+      "positive": [
+        {
+          "text": "subtle bossa nova influence",
+          "weight": 1
+        },
+        {
+          "text": "soft bossa swing",
+          "weight": 1
+        },
+        {
+          "text": "clean electric guitar with light bossa comping",
+          "weight": 1
+        },
+        {
+          "text": "shaker and rim accents",
+          "weight": 1
+        },
+        {
+          "text": "gentle organic feel",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "atonal",
+      "type": "style",
+      "positive": [
+        {
+          "text": "atonal synth fragments",
+          "weight": 1
+        },
+        {
+          "text": "dissonant intervals",
+          "weight": 1
+        },
+        {
+          "text": "unstable harmonic clusters",
+          "weight": 1
+        },
+        {
+          "text": "strange modulation",
+          "weight": 1
+        },
+        {
+          "text": "abstract nervous energy",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "found_sound_micro_percussion",
+      "type": "rhythm",
+      "positive": [
+        {
+          "text": "found-sound percussion",
+          "weight": 1
+        },
+        {
+          "text": "syncopated micro-percussion",
+          "weight": 1
+        },
+        {
+          "text": "tiny rhythmic details",
+          "weight": 1
+        },
+        {
+          "text": "fragmented percussive elements",
+          "weight": 1
+        },
+        {
+          "text": "organic and synthetic textures",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "two_step_groove",
+      "type": "rhythm",
+      "positive": [
+        {
+          "text": "2-step groove",
+          "weight": 1
+        },
+        {
+          "text": "shuffled hi-hats",
+          "weight": 1
+        },
+        {
+          "text": "offbeat kick placement",
+          "weight": 1
+        },
+        {
+          "text": "tight snare",
+          "weight": 1
+        },
+        {
+          "text": "garage swing",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "single_event_anchor",
+      "type": "rhythm",
+      "positive": [
+        {
+          "text": "single recurring sound as an anchor",
+          "weight": 1
+        },
+        {
+          "text": "appears irregularly",
+          "weight": 1
+        },
+        {
+          "text": "without forming a pattern",
+          "weight": 1
+        },
+        {
+          "text": "occasional point of attention",
+          "weight": 1
+        },
+        {
+          "text": "extremely sparse focal events",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "surface_interactions",
+      "type": "sound",
+      "positive": [
+        {
+          "text": "surface interaction sounds",
+          "weight": 1
+        },
+        {
+          "text": "physical contact noises",
+          "weight": 1
+        },
+        {
+          "text": "object movement textures",
+          "weight": 1
+        },
+        {
+          "text": "tactile sound details",
+          "weight": 1
+        },
+        {
+          "text": "natural interaction events",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "fm_synth",
+      "type": "sound",
+      "positive": [
+        {
+          "text": "FM synthesizer",
+          "weight": 1
+        },
+        {
+          "text": "digital FM synthesis",
+          "weight": 1
+        },
+        {
+          "text": "glassy digital tones",
+          "weight": 1
+        },
+        {
+          "text": "80s synthesizer character",
+          "weight": 1
+        },
+        {
+          "text": "clean digital timbre",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    }
+  ],
+  "categories": [],
+  "label": "Crazy Bossa 01",
+  "templateId": "default",
+  "fileName": "crazy-bossa-01.json"
+}

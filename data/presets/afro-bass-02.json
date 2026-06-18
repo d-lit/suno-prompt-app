@@ -1,0 +1,198 @@
+{
+  "id": "43502b84-3d75-4df5-9519-b86026e54328",
+  "activeTags": [
+    {
+      "tagId": "fresh_air",
+      "type": "atmosphere",
+      "positive": [
+        {
+          "text": "fresh air",
+          "weight": 1
+        },
+        {
+          "text": "breathing space",
+          "weight": 1
+        },
+        {
+          "text": "open environment",
+          "weight": 1
+        },
+        {
+          "text": "light atmosphere",
+          "weight": 1
+        },
+        {
+          "text": "natural openness",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "uk_bass",
+      "type": "genre",
+      "positive": [
+        {
+          "text": "UK bass",
+          "weight": 1
+        },
+        {
+          "text": "broken rhythm",
+          "weight": 1
+        },
+        {
+          "text": "forward-moving groove",
+          "weight": 1
+        },
+        {
+          "text": "deep sub bass",
+          "weight": 1
+        },
+        {
+          "text": "underground electronic atmosphere",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "afro_influenced",
+      "type": "style",
+      "positive": [
+        {
+          "text": "Afro-style rhythms",
+          "weight": 1
+        },
+        {
+          "text": "African-inspired rhythmic syncopation",
+          "weight": 1
+        },
+        {
+          "text": "hand percussion",
+          "weight": 1
+        },
+        {
+          "text": "organic percussion patterns",
+          "weight": 1
+        },
+        {
+          "text": "fluid polyrhythmic motion",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "single_event_anchor",
+      "type": "rhythm",
+      "positive": [
+        {
+          "text": "single recurring sound as an anchor",
+          "weight": 1
+        },
+        {
+          "text": "appears irregularly",
+          "weight": 1
+        },
+        {
+          "text": "without forming a pattern",
+          "weight": 1
+        },
+        {
+          "text": "occasional point of attention",
+          "weight": 1
+        },
+        {
+          "text": "extremely sparse focal events",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "ghost_notes",
+      "type": "rhythm",
+      "positive": [
+        {
+          "text": "ghost notes",
+          "weight": 1
+        },
+        {
+          "text": "dense ghost notes",
+          "weight": 1
+        },
+        {
+          "text": "subtle ghost notes",
+          "weight": 1
+        },
+        {
+          "text": "expressive placement",
+          "weight": 1
+        },
+        {
+          "text": "dynamic snare accents",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "tribal_polyrhythm",
+      "type": "rhythm",
+      "positive": [
+        {
+          "text": "tribal percussion layers",
+          "weight": 1
+        },
+        {
+          "text": "Afro-style syncopation",
+          "weight": 1
+        },
+        {
+          "text": "congas, shakers, wood percussion",
+          "weight": 1
+        },
+        {
+          "text": "polyrhythmic groove",
+          "weight": 1
+        },
+        {
+          "text": "ritual-like movement",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "afro_percussion",
+      "type": "sound",
+      "positive": [
+        {
+          "text": "Afro-inspired percussion",
+          "weight": 1
+        },
+        {
+          "text": "African rhythmic influence",
+          "weight": 1
+        },
+        {
+          "text": "organic percussion patterns",
+          "weight": 1
+        },
+        {
+          "text": "syncopated percussion movement",
+          "weight": 1
+        },
+        {
+          "text": "deep groove foundation",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    }
+  ],
+  "categories": [],
+  "label": "Afro Bass 02",
+  "templateId": "default",
+  "fileName": "afro-bass-02.json"
+}

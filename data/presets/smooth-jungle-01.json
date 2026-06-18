@@ -1,0 +1,198 @@
+{
+  "id": "aeb61530-5e77-4be0-a3e6-615d802f31cf",
+  "activeTags": [
+    {
+      "tagId": "palm_shadows",
+      "type": "atmosphere",
+      "positive": [
+        {
+          "text": "palm shadows",
+          "weight": 1
+        },
+        {
+          "text": "tropical silhouettes",
+          "weight": 1
+        },
+        {
+          "text": "warm evening palms",
+          "weight": 1
+        },
+        {
+          "text": "sunset through palm trees",
+          "weight": 1
+        },
+        {
+          "text": "island night beginning",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "jungle",
+      "type": "genre",
+      "positive": [
+        {
+          "text": "classic mid-90s jungle",
+          "weight": 1
+        },
+        {
+          "text": "Amen break dominant foundation",
+          "weight": 1
+        },
+        {
+          "text": "heavy Amen chopping",
+          "weight": 1
+        },
+        {
+          "text": "hardware sampler character",
+          "weight": 1
+        },
+        {
+          "text": "authentic underground jungle",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "underground",
+      "type": "style",
+      "positive": [
+        {
+          "text": "underground",
+          "weight": 1
+        },
+        {
+          "text": "raw underground sound",
+          "weight": 1
+        },
+        {
+          "text": "no commercial sheen",
+          "weight": 1
+        },
+        {
+          "text": "club-focused",
+          "weight": 1
+        },
+        {
+          "text": "non-mainstream character",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "light_swing",
+      "type": "rhythm",
+      "positive": [
+        {
+          "text": "light swing",
+          "weight": 1
+        },
+        {
+          "text": "subtle swing",
+          "weight": 1
+        },
+        {
+          "text": "gentle rhythmic movement",
+          "weight": 1
+        },
+        {
+          "text": "controlled groove",
+          "weight": 1
+        },
+        {
+          "text": "relaxed timing",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "found_sound_micro_percussion",
+      "type": "rhythm",
+      "positive": [
+        {
+          "text": "found-sound percussion",
+          "weight": 1
+        },
+        {
+          "text": "syncopated micro-percussion",
+          "weight": 1
+        },
+        {
+          "text": "tiny rhythmic details",
+          "weight": 1
+        },
+        {
+          "text": "fragmented percussive elements",
+          "weight": 1
+        },
+        {
+          "text": "organic and synthetic textures",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "four_by_four_two_step_hybrid",
+      "type": "rhythm",
+      "positive": [
+        {
+          "text": "4x4 kick layered with 2-step groove",
+          "weight": 1
+        },
+        {
+          "text": "syncopated swing",
+          "weight": 1
+        },
+        {
+          "text": "shuffled drums",
+          "weight": 1
+        },
+        {
+          "text": "club-focused pulse",
+          "weight": 1
+        },
+        {
+          "text": "deep 2-step movement",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "granular_percussion",
+      "type": "sound",
+      "positive": [
+        {
+          "text": "granular percussion",
+          "weight": 1
+        },
+        {
+          "text": "micro-particle rhythm",
+          "weight": 1
+        },
+        {
+          "text": "granular rhythmic texture",
+          "weight": 1
+        },
+        {
+          "text": "fragmented audio particles",
+          "weight": 1
+        },
+        {
+          "text": "grain-based percussion events",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    }
+  ],
+  "categories": [],
+  "label": "Smooth Jungle 01",
+  "templateId": "default",
+  "fileName": "smooth-jungle-01.json"
+}

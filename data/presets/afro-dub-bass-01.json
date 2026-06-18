@@ -1,0 +1,171 @@
+{
+  "id": "1975c9cd-6838-4f21-bf55-5556420b2627",
+  "activeTags": [
+    {
+      "tagId": "endless_summer",
+      "type": "atmosphere",
+      "positive": [
+        {
+          "text": "endless summer",
+          "weight": 1
+        },
+        {
+          "text": "timeless warm season",
+          "weight": 1
+        },
+        {
+          "text": "carefree atmosphere",
+          "weight": 1
+        },
+        {
+          "text": "sunlit memories",
+          "weight": 1
+        },
+        {
+          "text": "long warm days",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "deep_140_bass",
+      "type": "genre",
+      "positive": [
+        {
+          "text": "deep 140 bass music",
+          "weight": 1
+        },
+        {
+          "text": "broken groove",
+          "weight": 1
+        },
+        {
+          "text": "tempo around 140 BPM",
+          "weight": 1
+        },
+        {
+          "text": "deep sub bass pressure",
+          "weight": 1
+        },
+        {
+          "text": "dub-influenced space",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "restrained",
+      "type": "style",
+      "positive": [
+        {
+          "text": "restrained energy",
+          "weight": 1
+        },
+        {
+          "text": "understated intensity",
+          "weight": 1
+        },
+        {
+          "text": "controlled dynamics",
+          "weight": 1
+        },
+        {
+          "text": "no big hooks",
+          "weight": 1
+        },
+        {
+          "text": "subtle emotional pressure",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "kitchen_funk_percussion",
+      "type": "rhythm",
+      "positive": [
+        {
+          "text": "dry kitchen-funk percussion",
+          "weight": 1
+        },
+        {
+          "text": "found sounds",
+          "weight": 1
+        },
+        {
+          "text": "metallic clicks",
+          "weight": 1
+        },
+        {
+          "text": "wood taps",
+          "weight": 1
+        },
+        {
+          "text": "kitchen-object sounds",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "analog_warm_bass",
+      "type": "sound",
+      "positive": [
+        {
+          "text": "deep sub with analog warmth",
+          "weight": 1
+        },
+        {
+          "text": "warm analog bass",
+          "weight": 1
+        },
+        {
+          "text": "smooth warm filter",
+          "weight": 1
+        },
+        {
+          "text": "light saturation",
+          "weight": 1
+        },
+        {
+          "text": "slight tape wobble",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "rolling_congas",
+      "type": "sound",
+      "positive": [
+        {
+          "text": "rolling conga patterns",
+          "weight": 1
+        },
+        {
+          "text": "continuous conga movement",
+          "weight": 1
+        },
+        {
+          "text": "flowing percussion phrases",
+          "weight": 1
+        },
+        {
+          "text": "deep tribal momentum",
+          "weight": 1
+        },
+        {
+          "text": "organic rhythmic propulsion",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    }
+  ],
+  "categories": [],
+  "label": "Afro Dub Bass 01",
+  "templateId": "default",
+  "fileName": "afro-dub-bass-01.json"
+}
