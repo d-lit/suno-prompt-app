@@ -1,5 +1,6 @@
 import { PromptTag } from '~/types';
 
+import { default as acid } from './acid';
 import { default as afro } from './afro';
 import { default as brazilian } from './brazilian';
 import { default as disco } from './disco';
@@ -16,6 +17,7 @@ import { default as soul } from './soul';
 import { default as uk } from './uk';
 
 export default [
+  ...acid,
   ...afro,
   ...brazilian,
   ...disco,
