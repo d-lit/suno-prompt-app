@@ -14,7 +14,7 @@ export const RANDOM_CONFIG: Record<string, RandomConfigValue> = {
   genre: [1],
   style: [1],
 
-  anime: 0,
+  anime: [1],
 
   rhythm: [1, 3],
   sound: [1, 3],

@@ -1,6 +1,9 @@
 import { PromptTag } from '~/types';
 
 export default [
+  /**
+   * SYNTHS
+   */
   {
     id: 'analog_synth',
     comment:
@@ -117,6 +120,9 @@ export default [
     ],
     type: 'sound',
   },
+  /**
+   * Fm
+   */
   {
     id: 'fm_synth',
     comment:
@@ -161,6 +167,9 @@ export default [
     ],
     type: 'sound',
   },
+  /**
+   * Atmosphere
+   */
   {
     id: 'space_disco_synth',
     comment: 'Космический ретро-футуристичный синтезаторный слой.',
@@ -233,6 +242,9 @@ export default [
     ],
     type: 'sound',
   },
+  /**
+   * Pads
+   */
   {
     id: 'atmospheric_pads',
     comment: 'Самый универсальный pad слой в базе.',
@@ -304,6 +316,9 @@ export default [
     ],
     type: 'sound',
   },
+  /**
+   * Ambient
+   */
   {
     id: 'drifting_synths',
     comment: 'Медленно дрейфующие синты для LAZNCY и sound studies.',
@@ -343,6 +358,221 @@ export default [
       { text: 'digital particles' },
       { text: 'subtle granular processing' },
       { text: 'texture-driven synthesis' },
+    ],
+    type: 'sound',
+  },
+  /**
+   * BASS
+   */
+  {
+    id: 'analog_synth_bass',
+    comment:
+      'Жирный аналоговый синт-бас. Один из ключевых элементов Euro Disco и Synth Pop.',
+    group: 'bass',
+    label: 'Analog Synth Bass',
+    positive: [
+      { text: 'Analog Synth Bass' },
+      { text: 'fat synth bassline' },
+      { text: 'warm analog low-end' },
+      { text: 'driving bass groove' },
+    ],
+    type: 'sound',
+  },
+  {
+    id: 'driving_synth_bass',
+    comment: 'Напористый синт-бас для Italo Disco и Hi-NRG.',
+    group: 'bass',
+    label: 'Driving Synth Bass',
+    positive: [
+      { text: 'Driving Synth Bass' },
+      { text: 'energetic bass pulse' },
+      { text: 'sequenced bass movement' },
+      { text: 'dancefloor bassline' },
+    ],
+    type: 'sound',
+  },
+  {
+    id: 'sequenced_synth_bass',
+    comment: 'Секвенсорный синт-бас в духе европейской электроники 80-х.',
+    group: 'bass',
+    label: 'Sequenced Synth Bass',
+    positive: [
+      { text: 'Sequenced Synth Bass' },
+      { text: 'step-sequenced bassline' },
+      { text: 'electronic bass pattern' },
+      { text: 'repetitive synth groove' },
+    ],
+    type: 'sound',
+  },
+
+  /**
+   * DRUM MACHINES
+   */
+  {
+    id: 'linndrum',
+    comment:
+      'Легендарная LinnDrum. Вероятно один из самых сильных токенов всего файла.',
+    group: 'drums',
+    label: 'LinnDrum',
+    positive: [
+      { text: 'LinnDrum' },
+      { text: 'Linn Drum Machine' },
+      { text: 'classic 80s drum machine' },
+      { text: 'punchy electronic drums' },
+    ],
+    type: 'sound',
+  },
+  {
+    id: 'eighties_drum_machine',
+    comment: 'Обобщённый звук драм-машин 80-х.',
+    group: 'drums',
+    label: '80s Drum Machine',
+    positive: [
+      { text: '80s Drum Machine' },
+      { text: 'vintage drum machine' },
+      { text: 'electronic drum groove' },
+      { text: 'retro rhythm section' },
+    ],
+    type: 'sound',
+  },
+  {
+    id: 'vintage_drum_machine',
+    comment: 'Менее конкретный, но потенциально сильный датасетный токен.',
+    group: 'drums',
+    label: 'Vintage Drum Machine',
+    positive: [
+      { text: 'Vintage Drum Machine' },
+      { text: 'retro electronic drums' },
+      { text: 'old-school drum programming' },
+    ],
+    type: 'sound',
+  },
+
+  /**
+   * SNARES & CLAPS
+   */
+  {
+    id: 'gated_reverb_snare',
+    comment: 'Один из символов 80-х. Огромный хлопающий снейр с гейтом.',
+    group: 'snare',
+    label: 'Gated Reverb Snare',
+    positive: [
+      { text: 'Gated Reverb Snare' },
+      { text: 'big gated snare' },
+      { text: 'explosive snare reverb' },
+      { text: 'classic 80s drum sound' },
+    ],
+    type: 'sound',
+  },
+  {
+    id: 'bright_hand_claps',
+    comment: 'Яркие клэпы в духе Euro Disco, Sandra и Bananarama.',
+    group: 'snare',
+    label: 'Bright Hand Claps',
+    positive: [
+      { text: 'Bright Hand Claps' },
+      { text: 'sharp electronic claps' },
+      { text: 'layered hand claps' },
+      { text: 'dance-pop percussion' },
+    ],
+    type: 'sound',
+  },
+  {
+    id: 'layered_hand_claps',
+    comment: 'Многослойные синтетические клэпы для танцевального попа.',
+    group: 'snare',
+    label: 'Layered Hand Claps',
+    positive: [
+      { text: 'Layered Hand Claps' },
+      { text: 'stacked clap layers' },
+      { text: 'wide stereo claps' },
+      { text: 'bright rhythmic accents' },
+    ],
+    type: 'sound',
+  },
+
+  /**
+   * ARPEGGIATORS
+   */
+  {
+    id: 'synth_arpeggios',
+    comment: 'Классические арпеджио для synth-pop, Italo Disco и New Wave.',
+    group: 'arp',
+    label: 'Synth Arpeggios',
+    positive: [
+      { text: 'Synth Arpeggios' },
+      { text: 'sequenced synth patterns' },
+      { text: 'repeating melodic figures' },
+      { text: 'electronic motion' },
+    ],
+    type: 'sound',
+  },
+  {
+    id: 'analog_arpeggiators',
+    comment: 'Арпеджиаторы аналоговых синтов.',
+    group: 'arp',
+    label: 'Analog Arpeggiators',
+    positive: [
+      { text: 'Analog Arpeggiators' },
+      { text: 'analog synth sequences' },
+      { text: 'vintage electronic patterns' },
+    ],
+    type: 'sound',
+  },
+  {
+    id: 'shimmering_arpeggiators',
+    comment: 'Яркие мерцающие арпеджио для Italo Disco и Hi-NRG.',
+    group: 'arp',
+    label: 'Shimmering Arpeggiators',
+    positive: [
+      { text: 'Shimmering Arpeggiators' },
+      { text: 'sparkling synth sequences' },
+      { text: 'bright melodic motion' },
+      { text: 'energetic electronic texture' },
+    ],
+    type: 'sound',
+  },
+
+  /**
+   * FX
+   */
+  {
+    id: 'analog_chorus',
+    comment:
+      'Знаменитый хорусовский звук Juno и большинства synth-pop записей.',
+    group: 'fx',
+    label: 'Analog Chorus',
+    positive: [
+      { text: 'Analog Chorus' },
+      { text: 'stereo chorus effect' },
+      { text: 'wide synth image' },
+      { text: 'lush modulation' },
+    ],
+    type: 'sound',
+  },
+  {
+    id: 'tape_saturation',
+    comment: 'Мягкая аналоговая сатурация и винтажная теплота.',
+    group: 'fx',
+    label: 'Tape Saturation',
+    positive: [
+      { text: 'Tape Saturation' },
+      { text: 'analog tape warmth' },
+      { text: 'soft harmonic saturation' },
+      { text: 'vintage studio character' },
+    ],
+    type: 'sound',
+  },
+  {
+    id: 'vintage_analog_warmth',
+    comment: 'Общий винтажный аналоговый характер записи.',
+    group: 'fx',
+    label: 'Vintage Analog Warmth',
+    positive: [
+      { text: 'Vintage Analog Warmth' },
+      { text: 'retro studio sound' },
+      { text: 'analog production character' },
+      { text: 'warm vintage tone' },
     ],
     type: 'sound',
   },

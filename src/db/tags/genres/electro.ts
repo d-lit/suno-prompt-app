@@ -1,48 +1,111 @@
 import { PromptTag } from '~/types';
 
+const electroPositive = [
+  { text: 'electronic funk groove' },
+  { text: 'syncopated drum machine rhythm' },
+  { text: 'funk-inspired bass movement' },
+  { text: 'vintage electronic production' },
+  { text: 'robotic groove mechanics' },
+];
+
 export default [
   /**
    * ELECTRO
    */
   {
     id: 'electro',
-    comment: 'Классический electro. Не electro house.',
+    comment:
+      'Классический Electro. Не EDM и не Electro House. Ветка Afrika Bambaataa, Hashim и Egyptian Lover.',
     group: 'electro',
     label: 'Electro',
     positive: [
-      { text: 'electro' },
-      { text: 'electro groove' },
-      { text: '808 rhythm patterns' },
-      { text: 'robotic funk' },
-      { text: 'machine-driven groove' },
+      { text: 'Electro' },
+      ...electroPositive,
+      { text: '808 drum machine' },
+      { text: 'robotic rhythm programming' },
+      { text: 'electronic street funk' },
     ],
     type: 'genre',
   },
-  {
-    id: 'old_school_electro',
-    comment: 'Ранний electro и electro-funk.',
-    group: 'electro',
-    label: 'Old School Electro',
-    positive: [
-      { text: 'old school electro' },
-      { text: 'classic electro groove' },
-      { text: 'vintage drum machine rhythms' },
-      { text: 'early electronic funk' },
-      { text: 'electro-funk heritage' },
-    ],
-    type: 'genre',
-  },
+
   {
     id: 'electro_funk',
-    comment: 'Самый важный кандидат файла.',
+    comment:
+      'Пересечение Electro и Funk. Сильный кандидат для грува, баса и синкоп.',
     group: 'electro',
     label: 'Electro Funk',
     positive: [
-      { text: 'electro funk' },
-      { text: 'funky machine rhythms' },
-      { text: 'robotic groove' },
-      { text: 'electronic funk basslines' },
-      { text: '808-driven movement' },
+      { text: 'Electro Funk' },
+      ...electroPositive,
+      { text: 'funk bass groove' },
+      { text: 'electronic funk instrumentation' },
+      { text: 'syncopated rhythm section' },
+    ],
+    type: 'genre',
+  },
+
+  {
+    id: 'electro_boogie',
+    comment:
+      'Один из самых интересных тегов файла. Жирный синт-бас, драм-машины, фанковая синкопа и городская эстетика начала 80-х.',
+    group: 'electro',
+    label: 'Electro Boogie',
+    positive: [
+      { text: 'Electro Boogie' },
+      { text: 'Boogie Funk' },
+      { text: 'Modern Boogie' },
+      { text: 'synth funk groove' },
+      { text: 'slap-inspired synth bass' },
+      { text: 'vintage drum machine' },
+      { text: 'urban night groove' },
+      { text: 'post-disco electronic funk' },
+    ],
+    type: 'genre',
+  },
+
+  {
+    id: 'boogie_funk',
+    comment: 'Ближе к живому фанку и пост-диско, чем к чистому электро.',
+    group: 'electro',
+    label: 'Boogie Funk',
+    positive: [
+      { text: 'Boogie Funk' },
+      { text: 'post-disco groove' },
+      { text: 'funk rhythm guitar' },
+      { text: 'synth bassline' },
+      { text: 'dancefloor funk' },
+      { text: 'modern soul influence' },
+    ],
+    type: 'genre',
+  },
+
+  {
+    id: 'electro_soul',
+    comment:
+      'Мягкая соул-ветка электро. Полезно для city-pop, boogie и nu-jazz гибридов.',
+    group: 'electro',
+    label: 'Electro Soul',
+    positive: [
+      { text: 'Electro Soul' },
+      { text: 'electronic soul groove' },
+      { text: 'warm synth harmony' },
+      { text: 'smooth bass movement' },
+      { text: 'urban soul atmosphere' },
+    ],
+    type: 'genre',
+  },
+
+  {
+    id: 'freestyle',
+    comment: 'Латиноамериканская и нью-йоркская ветка электро-попа конца 80-х.',
+    group: 'electro',
+    label: 'Freestyle',
+    positive: [
+      { text: 'Freestyle' },
+      { text: 'Latin Freestyle' },
+      { text: 'electronic dance-pop' },
+      { text: 'syncopated drum machine groove' },
+      { text: 'romantic urban energy' },
     ],
     type: 'genre',
   },

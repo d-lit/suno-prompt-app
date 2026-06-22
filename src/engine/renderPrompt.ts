@@ -1,14 +1,14 @@
 import { ActivePromptTag, ActivePromptToken, PromptSide } from '~/types';
 
 export const PROMPT_TYPE_ORDER = [
-  'genre',
-  'style',
-  'atmosphere',
+  'sound',
+  'rhythm',
 
   'anime',
 
-  'sound',
-  'rhythm',
+  'genre',
+  'style',
+  'atmosphere',
 
   'vocals',
 
