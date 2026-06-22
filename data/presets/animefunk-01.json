@@ -1,0 +1,198 @@
+{
+  "id": "e1c97c8d-f639-4b23-a748-94c050e0ca8b",
+  "activeTags": [
+    {
+      "tagId": "drumfunk",
+      "type": "genre",
+      "positive": [
+        {
+          "text": "drumfunk",
+          "weight": 1
+        },
+        {
+          "text": "advanced drumfunk programming",
+          "weight": 1
+        },
+        {
+          "text": "complex rolling breakbeats",
+          "weight": 1
+        },
+        {
+          "text": "chopped Amen edits",
+          "weight": 1
+        },
+        {
+          "text": "ghost notes and rapid fills",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "city_pop_harmony",
+      "type": "style",
+      "positive": [
+        {
+          "text": "lush city pop harmony",
+          "weight": 1
+        },
+        {
+          "text": "maj7 chords",
+          "weight": 1
+        },
+        {
+          "text": "smooth transitions",
+          "weight": 1
+        },
+        {
+          "text": "nostalgic Japanese tone",
+          "weight": 1
+        },
+        {
+          "text": "clean guitar licks",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "vertical_city",
+      "type": "anime",
+      "positive": [
+        {
+          "text": "vertical city",
+          "weight": 1
+        },
+        {
+          "text": "multi-level urban environment",
+          "weight": 1
+        },
+        {
+          "text": "towers above crowded streets",
+          "weight": 1
+        },
+        {
+          "text": "elevated roads and lower districts",
+          "weight": 1
+        },
+        {
+          "text": "dense futuristic metropolis",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "single_event_anchor",
+      "type": "rhythm",
+      "positive": [
+        {
+          "text": "single recurring sound as an anchor",
+          "weight": 1
+        },
+        {
+          "text": "appears irregularly",
+          "weight": 1
+        },
+        {
+          "text": "without forming a pattern",
+          "weight": 1
+        },
+        {
+          "text": "occasional point of attention",
+          "weight": 1
+        },
+        {
+          "text": "extremely sparse focal events",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "metal_clicks",
+      "type": "sound",
+      "positive": [
+        {
+          "text": "metallic clicks",
+          "weight": 1
+        },
+        {
+          "text": "tiny metal impacts",
+          "weight": 1
+        },
+        {
+          "text": "high-frequency metallic detail",
+          "weight": 1
+        },
+        {
+          "text": "sharp click textures",
+          "weight": 1
+        },
+        {
+          "text": "dry metallic percussion",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "granular_percussion",
+      "type": "sound",
+      "positive": [
+        {
+          "text": "granular percussion",
+          "weight": 1
+        },
+        {
+          "text": "micro-particle rhythm",
+          "weight": 1
+        },
+        {
+          "text": "granular rhythmic texture",
+          "weight": 1
+        },
+        {
+          "text": "fragmented audio particles",
+          "weight": 1
+        },
+        {
+          "text": "grain-based percussion events",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "shakers",
+      "type": "sound",
+      "positive": [
+        {
+          "text": "shakers",
+          "weight": 1
+        },
+        {
+          "text": "organic shaker patterns",
+          "weight": 1
+        },
+        {
+          "text": "constant high-frequency motion",
+          "weight": 1
+        },
+        {
+          "text": "light rhythmic texture",
+          "weight": 1
+        },
+        {
+          "text": "groove support",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    }
+  ],
+  "categories": [],
+  "label": "Animefunk 01",
+  "templateId": "default",
+  "fileName": "animefunk-01.json"
+}

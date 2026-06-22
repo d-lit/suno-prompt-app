@@ -1,0 +1,235 @@
+{
+  "id": "14489f38-bbbd-4e55-be88-17d03a7bdddc",
+  "activeTags": [
+    {
+      "tagId": "uk_jazz",
+      "type": "genre",
+      "positive": [
+        {
+          "text": "modern UK jazz",
+          "weight": 1
+        },
+        {
+          "text": "London jazz groove",
+          "weight": 1
+        },
+        {
+          "text": "hip-hop influenced swing",
+          "weight": 1
+        },
+        {
+          "text": "live drums with ghost notes",
+          "weight": 1
+        },
+        {
+          "text": "Rhodes electric piano chords",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "raw",
+      "type": "style",
+      "positive": [
+        {
+          "text": "raw",
+          "weight": 1
+        },
+        {
+          "text": "unpolished sound",
+          "weight": 1
+        },
+        {
+          "text": "rough texture",
+          "weight": 1
+        },
+        {
+          "text": "natural dynamics",
+          "weight": 1
+        },
+        {
+          "text": "imperfect human feel",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "data_networks",
+      "type": "anime",
+      "positive": [
+        {
+          "text": "data networks",
+          "weight": 1
+        },
+        {
+          "text": "information moving through the city",
+          "weight": 1
+        },
+        {
+          "text": "digital signals everywhere",
+          "weight": 1
+        },
+        {
+          "text": "invisible communication systems",
+          "weight": 1
+        },
+        {
+          "text": "urban information flow",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "dense_breaks",
+      "type": "rhythm",
+      "positive": [
+        {
+          "text": "high rhythmic density",
+          "weight": 1
+        },
+        {
+          "text": "constant forward motion",
+          "weight": 1
+        },
+        {
+          "text": "rapid rearrangements",
+          "weight": 1
+        },
+        {
+          "text": "rolling percussive detail",
+          "weight": 1
+        },
+        {
+          "text": "complex break manipulation",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "hip_hop_swing",
+      "type": "rhythm",
+      "positive": [
+        {
+          "text": "hip-hop swing feel",
+          "weight": 1
+        },
+        {
+          "text": "loose human swing",
+          "weight": 1
+        },
+        {
+          "text": "hard swing",
+          "weight": 1
+        },
+        {
+          "text": "MPC-style groove",
+          "weight": 1
+        },
+        {
+          "text": "head-nod groove",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "analog_synth_stabs",
+      "type": "sound",
+      "positive": [
+        {
+          "text": "analog synth stabs",
+          "weight": 1
+        },
+        {
+          "text": "short synth accents",
+          "weight": 1
+        },
+        {
+          "text": "sparse analog chord hits",
+          "weight": 1
+        },
+        {
+          "text": "minimal synth punctuation",
+          "weight": 1
+        },
+        {
+          "text": "short harmonic synth events",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "hypnotic_acid",
+      "type": "genre",
+      "positive": [
+        {
+          "text": "Hypnotic Acid",
+          "weight": 1
+        },
+        {
+          "text": "TB-303",
+          "weight": 1
+        },
+        {
+          "text": "Roland TB-303",
+          "weight": 1
+        },
+        {
+          "text": "Resonant Basslines",
+          "weight": 1
+        },
+        {
+          "text": "303 Filter Sweep",
+          "weight": 1
+        },
+        {
+          "text": "Acid Filter Sweep",
+          "weight": 1
+        },
+        {
+          "text": "Squelchy Acid",
+          "weight": 1
+        },
+        {
+          "text": "Squelchy 303 Bassline",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "tagId": "tribal_polyrhythm",
+      "type": "rhythm",
+      "positive": [
+        {
+          "text": "tribal percussion layers",
+          "weight": 1
+        },
+        {
+          "text": "Afro-style syncopation",
+          "weight": 1
+        },
+        {
+          "text": "congas, shakers, wood percussion",
+          "weight": 1
+        },
+        {
+          "text": "polyrhythmic groove",
+          "weight": 1
+        },
+        {
+          "text": "ritual-like movement",
+          "weight": 1
+        }
+      ]
+    }
+  ],
+  "categories": [],
+  "label": "Acid Tribal House 01",
+  "templateId": "default",
+  "fileName": "acid-tribal-house-01.json"
+}

@@ -1,0 +1,252 @@
+{
+  "id": "f90b8e26-ced0-46e9-9830-92a073e439c5",
+  "activeTags": [
+    {
+      "tagId": "detroit_electro",
+      "type": "genre",
+      "positive": [
+        {
+          "text": "Detroit electro",
+          "weight": 1
+        },
+        {
+          "text": "futuristic machine funk",
+          "weight": 1
+        },
+        {
+          "text": "cold synthetic groove",
+          "weight": 1
+        },
+        {
+          "text": "deep electronic movement",
+          "weight": 1
+        },
+        {
+          "text": "underground electro tradition",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "nostalgic",
+      "type": "style",
+      "positive": [
+        {
+          "text": "nostalgic",
+          "weight": 1
+        },
+        {
+          "text": "warm memory-like tone",
+          "weight": 1
+        },
+        {
+          "text": "retro emotional mood",
+          "weight": 1
+        },
+        {
+          "text": "soft melodic fragments",
+          "weight": 1
+        },
+        {
+          "text": "analog warmth",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "vertical_city",
+      "type": "anime",
+      "positive": [
+        {
+          "text": "vertical city",
+          "weight": 1
+        },
+        {
+          "text": "multi-level urban environment",
+          "weight": 1
+        },
+        {
+          "text": "towers above crowded streets",
+          "weight": 1
+        },
+        {
+          "text": "elevated roads and lower districts",
+          "weight": 1
+        },
+        {
+          "text": "dense futuristic metropolis",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "light_swing",
+      "type": "rhythm",
+      "positive": [
+        {
+          "text": "light swing",
+          "weight": 1
+        },
+        {
+          "text": "subtle swing",
+          "weight": 1
+        },
+        {
+          "text": "gentle rhythmic movement",
+          "weight": 1
+        },
+        {
+          "text": "controlled groove",
+          "weight": 1
+        },
+        {
+          "text": "relaxed timing",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "afro_hand_percussion",
+      "type": "rhythm",
+      "positive": [
+        {
+          "text": "layered hand percussion",
+          "weight": 1
+        },
+        {
+          "text": "Afro-style rhythms",
+          "weight": 1
+        },
+        {
+          "text": "congas and shakers",
+          "weight": 1
+        },
+        {
+          "text": "organic percussion patterns",
+          "weight": 1
+        },
+        {
+          "text": "fluid groove",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "minimal_two_step",
+      "type": "rhythm",
+      "positive": [
+        {
+          "text": "minimal 2-step drums",
+          "weight": 1
+        },
+        {
+          "text": "crisp hi-hats",
+          "weight": 1
+        },
+        {
+          "text": "sparse kicks",
+          "weight": 1
+        },
+        {
+          "text": "tight snare",
+          "weight": 1
+        },
+        {
+          "text": "controlled groove",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "dark_rhodes",
+      "type": "sound",
+      "positive": [
+        {
+          "text": "dark electric piano",
+          "weight": 1
+        },
+        {
+          "text": "dark Rhodes chords",
+          "weight": 1
+        },
+        {
+          "text": "minor tonal center",
+          "weight": 1
+        },
+        {
+          "text": "sparse tense chord voicings",
+          "weight": 1
+        },
+        {
+          "text": "moody electric piano textures",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "glitch_percussion",
+      "type": "sound",
+      "positive": [
+        {
+          "text": "glitch percussion",
+          "weight": 1
+        },
+        {
+          "text": "digital rhythmic artifacts",
+          "weight": 1
+        },
+        {
+          "text": "micro-edited drum fragments",
+          "weight": 1
+        },
+        {
+          "text": "fragmented digital percussion",
+          "weight": 1
+        },
+        {
+          "text": "rhythmic glitch textures",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "hand_drum_accents",
+      "type": "sound",
+      "positive": [
+        {
+          "text": "hand drum accents",
+          "weight": 1
+        },
+        {
+          "text": "occasional percussion strikes",
+          "weight": 1
+        },
+        {
+          "text": "tribal rhythmic punctuation",
+          "weight": 1
+        },
+        {
+          "text": "organic accents",
+          "weight": 1
+        },
+        {
+          "text": "human rhythmic gestures",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    }
+  ],
+  "categories": [],
+  "label": "Afro 2Step 01",
+  "templateId": "default",
+  "fileName": "afro-2step-01.json"
+}

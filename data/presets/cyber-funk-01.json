@@ -1,0 +1,144 @@
+{
+  "id": "f138d536-782c-4484-8db5-c45fb0df5ce7",
+  "activeTags": [
+    {
+      "tagId": "cyber_funk",
+      "type": "genre",
+      "positive": [
+        {
+          "text": "cyber funk",
+          "weight": 1
+        },
+        {
+          "text": "futuristic funk rhythms",
+          "weight": 1
+        },
+        {
+          "text": "digital groove systems",
+          "weight": 1
+        },
+        {
+          "text": "neon funk atmosphere",
+          "weight": 1
+        },
+        {
+          "text": "electronic body movement",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "experimental",
+      "type": "style",
+      "positive": [
+        {
+          "text": "experimental",
+          "weight": 1
+        },
+        {
+          "text": "unconventional structure",
+          "weight": 1
+        },
+        {
+          "text": "sound design focus",
+          "weight": 1
+        },
+        {
+          "text": "unusual rhythmic details",
+          "weight": 1
+        },
+        {
+          "text": "raw experimental atmosphere",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "nomadic_spirit",
+      "type": "anime",
+      "positive": [
+        {
+          "text": "nomadic spirit",
+          "weight": 1
+        },
+        {
+          "text": "wandering without destination",
+          "weight": 1
+        },
+        {
+          "text": "constant movement",
+          "weight": 1
+        },
+        {
+          "text": "journey through changing places",
+          "weight": 1
+        },
+        {
+          "text": "freedom and uncertainty",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "deep_shuffled_two_step",
+      "type": "rhythm",
+      "positive": [
+        {
+          "text": "deep shuffled 2-step rhythm",
+          "weight": 1
+        },
+        {
+          "text": "dusty drum texture",
+          "weight": 1
+        },
+        {
+          "text": "tight hi-hats",
+          "weight": 1
+        },
+        {
+          "text": "solid snare placement",
+          "weight": 1
+        },
+        {
+          "text": "negative space",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "m9_chords",
+      "type": "sound",
+      "positive": [
+        {
+          "text": "m9 chords",
+          "weight": 1
+        },
+        {
+          "text": "minor ninth chords",
+          "weight": 1
+        },
+        {
+          "text": "warm m9 voicings",
+          "weight": 1
+        },
+        {
+          "text": "soft tension",
+          "weight": 1
+        },
+        {
+          "text": "extended jazz harmony",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    }
+  ],
+  "categories": [],
+  "label": "Cyber Funk 01",
+  "templateId": "default",
+  "fileName": "cyber-funk-01.json"
+}

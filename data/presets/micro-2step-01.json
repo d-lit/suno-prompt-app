@@ -1,0 +1,235 @@
+{
+  "id": "7cd873d6-0d27-4d9a-aaaf-2e40c553fd80",
+  "activeTags": [
+    {
+      "tagId": "detroit_electro",
+      "type": "genre",
+      "positive": [
+        {
+          "text": "Detroit electro",
+          "weight": 1
+        },
+        {
+          "text": "futuristic machine funk",
+          "weight": 1
+        },
+        {
+          "text": "cold synthetic groove",
+          "weight": 1
+        },
+        {
+          "text": "deep electronic movement",
+          "weight": 1
+        },
+        {
+          "text": "underground electro tradition",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "nostalgic",
+      "type": "style",
+      "positive": [
+        {
+          "text": "nostalgic",
+          "weight": 1
+        },
+        {
+          "text": "warm memory-like tone",
+          "weight": 1
+        },
+        {
+          "text": "retro emotional mood",
+          "weight": 1
+        },
+        {
+          "text": "soft melodic fragments",
+          "weight": 1
+        },
+        {
+          "text": "analog warmth",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "light_swing",
+      "type": "rhythm",
+      "positive": [
+        {
+          "text": "light swing",
+          "weight": 1
+        },
+        {
+          "text": "subtle swing",
+          "weight": 1
+        },
+        {
+          "text": "gentle rhythmic movement",
+          "weight": 1
+        },
+        {
+          "text": "controlled groove",
+          "weight": 1
+        },
+        {
+          "text": "relaxed timing",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "minimal_two_step",
+      "type": "rhythm",
+      "positive": [
+        {
+          "text": "minimal 2-step drums",
+          "weight": 1
+        },
+        {
+          "text": "crisp hi-hats",
+          "weight": 1
+        },
+        {
+          "text": "sparse kicks",
+          "weight": 1
+        },
+        {
+          "text": "tight snare",
+          "weight": 1
+        },
+        {
+          "text": "controlled groove",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "dark_rhodes",
+      "type": "sound",
+      "positive": [
+        {
+          "text": "dark electric piano",
+          "weight": 1
+        },
+        {
+          "text": "dark Rhodes chords",
+          "weight": 1
+        },
+        {
+          "text": "minor tonal center",
+          "weight": 1
+        },
+        {
+          "text": "sparse tense chord voicings",
+          "weight": 1
+        },
+        {
+          "text": "moody electric piano textures",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "glitch_percussion",
+      "type": "sound",
+      "positive": [
+        {
+          "text": "glitch percussion",
+          "weight": 1
+        },
+        {
+          "text": "digital rhythmic artifacts",
+          "weight": 1
+        },
+        {
+          "text": "micro-edited drum fragments",
+          "weight": 1
+        },
+        {
+          "text": "fragmented digital percussion",
+          "weight": 1
+        },
+        {
+          "text": "rhythmic glitch textures",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "hypnotic_acid",
+      "type": "genre",
+      "positive": [
+        {
+          "text": "Hypnotic Acid",
+          "weight": 1
+        },
+        {
+          "text": "TB-303",
+          "weight": 1
+        },
+        {
+          "text": "Roland TB-303",
+          "weight": 1
+        },
+        {
+          "text": "Resonant Basslines",
+          "weight": 1
+        },
+        {
+          "text": "303 Filter Sweep",
+          "weight": 1
+        },
+        {
+          "text": "Acid Filter Sweep",
+          "weight": 1
+        },
+        {
+          "text": "Squelchy Acid",
+          "weight": 1
+        },
+        {
+          "text": "Squelchy 303 Bassline",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "tagId": "silent_orbit",
+      "type": "anime",
+      "positive": [
+        {
+          "text": "silent orbit",
+          "weight": 1
+        },
+        {
+          "text": "quiet movement around Earth",
+          "weight": 1
+        },
+        {
+          "text": "weightless silence",
+          "weight": 1
+        },
+        {
+          "text": "slow orbital drift",
+          "weight": 1
+        },
+        {
+          "text": "vast technical calm",
+          "weight": 1
+        }
+      ]
+    }
+  ],
+  "categories": [],
+  "label": "Micro 2Step 01",
+  "templateId": "default",
+  "fileName": "micro-2step-01.json"
+}
