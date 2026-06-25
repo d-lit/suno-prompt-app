@@ -1,0 +1,209 @@
+{
+  "id": "dfce09e6-e824-48c0-9c83-cd947d057d2e",
+  "activeTags": [
+    {
+      "tagId": "spiritual_soul",
+      "type": "genre",
+      "positive": [
+        {
+          "text": "spiritual soul",
+          "weight": 1
+        },
+        {
+          "text": "uplifting emotional energy",
+          "weight": 1
+        },
+        {
+          "text": "inner depth and warmth",
+          "weight": 1
+        },
+        {
+          "text": "human connection through music",
+          "weight": 1
+        },
+        {
+          "text": "soulful transcendence",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "restrained",
+      "type": "style",
+      "positive": [
+        {
+          "text": "restrained energy",
+          "weight": 1
+        },
+        {
+          "text": "understated intensity",
+          "weight": 1
+        },
+        {
+          "text": "controlled dynamics",
+          "weight": 1
+        },
+        {
+          "text": "no big hooks",
+          "weight": 1
+        },
+        {
+          "text": "subtle emotional pressure",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "found_sound_micro_percussion",
+      "type": "rhythm",
+      "positive": [
+        {
+          "text": "found-sound percussion",
+          "weight": 1
+        },
+        {
+          "text": "syncopated micro-percussion",
+          "weight": 1
+        },
+        {
+          "text": "tiny rhythmic details",
+          "weight": 1
+        },
+        {
+          "text": "fragmented percussive elements",
+          "weight": 1
+        },
+        {
+          "text": "organic and synthetic textures",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "cosmic_pads",
+      "type": "sound",
+      "positive": [
+        {
+          "text": "cosmic pads",
+          "weight": 1
+        },
+        {
+          "text": "floating synth clouds",
+          "weight": 1
+        },
+        {
+          "text": "retro futuristic atmosphere",
+          "weight": 1
+        },
+        {
+          "text": "space-inspired ambience",
+          "weight": 1
+        },
+        {
+          "text": "deep cosmic textures",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "expressive_synth_lead",
+      "type": "sound",
+      "positive": [
+        {
+          "text": "expressive analog synth lead",
+          "weight": 1
+        },
+        {
+          "text": "melodic synthesizer lead",
+          "weight": 1
+        },
+        {
+          "text": "synth carries melodic phrases",
+          "weight": 1
+        },
+        {
+          "text": "emotional synth lead",
+          "weight": 1
+        },
+        {
+          "text": "human-like phrasing",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "rim_accents",
+      "type": "sound",
+      "positive": [
+        {
+          "text": "rim accents",
+          "weight": 1
+        },
+        {
+          "text": "light rim percussion",
+          "weight": 1
+        },
+        {
+          "text": "subtle offbeat accents",
+          "weight": 1
+        },
+        {
+          "text": "soft rhythmic punctuation",
+          "weight": 1
+        },
+        {
+          "text": "gentle groove support",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "memphis_rap",
+      "type": "genre",
+      "positive": [
+        {
+          "text": "Memphis Rap",
+          "weight": 1
+        },
+        {
+          "text": "cassette tape texture",
+          "weight": 1
+        },
+        {
+          "text": "lo-fi underground production",
+          "weight": 1
+        },
+        {
+          "text": "raw drum machine groove",
+          "weight": 1
+        },
+        {
+          "text": "dark southern atmosphere",
+          "weight": 1
+        },
+        {
+          "text": "underground cassette culture",
+          "weight": 1
+        },
+        {
+          "text": "dark repetitive loops",
+          "weight": 1
+        },
+        {
+          "text": "minimal sample-driven production",
+          "weight": 1
+        }
+      ]
+    }
+  ],
+  "categories": [],
+  "label": "Space Phonk 01",
+  "templateId": "default",
+  "fileName": "space-phonk-01.json"
+}

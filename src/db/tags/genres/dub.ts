@@ -123,7 +123,7 @@ export default [
     id: 'ambient_dub',
     comment:
       'Ambient + Dub. Максимум воздуха, реверберации и медленного развития.',
-    group: 'space',
+    group: 'dub',
     label: 'Ambient Dub',
     positive: [
       { text: 'Ambient Dub' },
@@ -138,7 +138,7 @@ export default [
     id: 'space_dub',
     comment:
       'Космическая версия dub с огромным пространством и бесконечными хвостами эффектов.',
-    group: 'space',
+    group: 'dub',
     label: 'Space Dub',
     positive: [
       { text: 'Space Dub' },
@@ -153,7 +153,7 @@ export default [
     id: 'ghost_dub',
     comment:
       'Призрачный dub. Полурастворённые звуки, фантомные эхо и минимальное присутствие.',
-    group: 'space',
+    group: 'dub',
     label: 'Ghost Dub',
     positive: [
       { text: 'Ghost Dub' },
@@ -169,7 +169,7 @@ export default [
     id: 'hypnotic_dub',
     comment:
       'Гипнотический dub с циклическим движением и повторяющимися пространственными структурами.',
-    group: 'space',
+    group: 'dub',
     label: 'Hypnotic Dub',
     positive: [
       { text: 'Hypnotic Dub' },
@@ -184,7 +184,7 @@ export default [
     id: 'spiritual_dub',
     comment:
       'Медитативный dub с духовным оттенком и созерцательной атмосферой.',
-    group: 'space',
+    group: 'dub',
     label: 'Spiritual Dub',
     positive: [
       { text: 'Spiritual Dub' },
@@ -202,7 +202,7 @@ export default [
   {
     id: 'sub_bass_dub',
     comment: 'Акцент на саб-бас и физическое ощущение давления низких частот.',
-    group: 'pressure',
+    group: 'dub',
     label: 'Sub-Bass Dub',
     positive: [
       { text: 'Sub-Bass Dub' },
@@ -217,7 +217,7 @@ export default [
     id: 'sub_pressure',
     comment:
       'Концентрированный низкочастотный напор без обязательной привязки к регги-корням.',
-    group: 'pressure',
+    group: 'dub',
     label: 'Sub Pressure',
     positive: [
       { text: 'Sub Pressure' },
@@ -230,7 +230,7 @@ export default [
   {
     id: 'bass_weight',
     comment: 'Тяжёлый вес баса как основной элемент композиции.',
-    group: 'pressure',
+    group: 'dub',
     label: 'Bass Weight',
     positive: [
       { text: 'Bass Weight' },
@@ -244,7 +244,7 @@ export default [
     id: 'slow_motion_dub',
     comment:
       'Замедленное ощущение времени через пространство, эхо и тяжёлый бас.',
-    group: 'pressure',
+    group: 'dub',
     label: 'Slow Motion Dub',
     positive: [
       { text: 'Slow Motion Dub' },
@@ -257,7 +257,7 @@ export default [
   {
     id: 'low_end_pressure',
     comment: 'Низкочастотное давление и массивный фундамент микса.',
-    group: 'pressure',
+    group: 'dub',
     label: 'Low-End Pressure',
     positive: [
       { text: 'Low-End Pressure' },
@@ -275,7 +275,7 @@ export default [
     id: 'echo_dub',
     comment:
       'Dub через эхо. Пространство строится прежде всего повторениями и отражениями.',
-    group: 'fx',
+    group: 'dub',
     label: 'Echo Dub',
     positive: [
       { text: 'Echo Dub' },
@@ -288,7 +288,7 @@ export default [
   {
     id: 'delay_dub',
     comment: 'Dub через задержки и длинные feedback-цепочки.',
-    group: 'fx',
+    group: 'dub',
     label: 'Delay Dub',
     positive: [
       { text: 'Delay Dub' },
@@ -302,7 +302,7 @@ export default [
     id: 'echo_chamber',
     comment:
       'Образ большого эхо-пространства, работающего как отдельный инструмент.',
-    group: 'fx',
+    group: 'dub',
     label: 'Echo Chamber',
     positive: [
       { text: 'Echo Chamber' },
@@ -316,7 +316,7 @@ export default [
     id: 'infinite_echo',
     comment:
       'Максимально длинные и затухающие повторения, уходящие за пределы микса.',
-    group: 'fx',
+    group: 'dub',
     label: 'Infinite Echo',
     positive: [
       { text: 'Infinite Echo' },
@@ -329,7 +329,7 @@ export default [
   {
     id: 'studio_dub',
     comment: 'Студийный dub-подход, где эффекты становятся частью композиции.',
-    group: 'fx',
+    group: 'dub',
     label: 'Studio Dub',
     positive: [
       { text: 'Studio Dub' },
@@ -347,7 +347,7 @@ export default [
     id: 'dub_techno',
     comment:
       'Пересечение dub и techno. Эхо-хорды, повторение и гипнотический пульс.',
-    group: 'dub_techno',
+    group: 'dub',
     label: 'Dub Techno',
     positive: [
       { text: 'Dub Techno' },
@@ -364,7 +364,7 @@ export default [
     id: 'deep_dub_techno',
     comment:
       'Глубокий атмосферный dub techno с акцентом на пространство и текстуры.',
-    group: 'dub_techno',
+    group: 'dub',
     label: 'Deep Dub Techno',
     positive: [
       { text: 'Deep Dub Techno' },
@@ -380,7 +380,7 @@ export default [
     id: 'minimal_dub_techno',
     comment:
       'Минималистичный dub techno с сокращённой аранжировкой и циклическим развитием.',
-    group: 'dub_techno',
+    group: 'dub',
     label: 'Minimal Dub Techno',
     positive: [
       { text: 'Minimal Dub Techno' },
@@ -394,7 +394,7 @@ export default [
     id: 'atmospheric_dub_techno',
     comment:
       'Максимально атмосферная сторона dub techno с большим количеством пространства.',
-    group: 'dub_techno',
+    group: 'dub',
     label: 'Atmospheric Dub Techno',
     positive: [
       { text: 'Atmospheric Dub Techno' },
@@ -408,7 +408,7 @@ export default [
     id: 'berlin_dub_techno',
     comment:
       'Берлинская школа dub techno: минимализм, повторение и глубокая фактура.',
-    group: 'dub_techno',
+    group: 'dub',
     label: 'Berlin Dub Techno',
     positive: [
       { text: 'Berlin Dub Techno' },
@@ -422,7 +422,7 @@ export default [
     id: 'basic_channel',
     comment:
       'Референс на Basic Channel. Один из фундаментальных архетипов dub techno.',
-    group: 'dub_techno',
+    group: 'dub',
     label: 'Basic Channel',
     positive: [
       { text: 'Basic Channel' },
@@ -438,7 +438,7 @@ export default [
     id: 'deep_chord',
     comment:
       'Референс на Deep Chord. Мягкие размытые хорды и глубокое атмосферное пространство.',
-    group: 'dub_techno',
+    group: 'dub',
     label: 'Deep Chord',
     positive: [
       { text: 'Deep Chord' },
@@ -458,7 +458,7 @@ export default [
     id: 'industrial_dub',
     comment:
       'Смешение dub-пространства с индустриальными текстурами и механической средой.',
-    group: 'experimental',
+    group: 'dub',
     label: 'Industrial Dub',
     positive: [
       { text: 'Industrial Dub' },
@@ -474,7 +474,7 @@ export default [
     id: 'dark_dub',
     comment:
       'Тёмный dub с мрачной атмосферой, холодным пространством и тяжёлым низом.',
-    group: 'experimental',
+    group: 'dub',
     label: 'Dark Dub',
     positive: [
       { text: 'Dark Dub' },
@@ -490,7 +490,7 @@ export default [
     id: 'experimental_dub',
     comment:
       'Экспериментальная сторона dub с нетипичными эффектами и звуковым дизайном.',
-    group: 'experimental',
+    group: 'dub',
     label: 'Experimental Dub',
     positive: [
       { text: 'Experimental Dub' },

@@ -1,0 +1,175 @@
+{
+  "id": "1fc70f45-a0bc-4e1a-8d8c-0fc3704541bb",
+  "activeTags": [
+    {
+      "tagId": "early_phonk",
+      "type": "genre",
+      "positive": [
+        {
+          "text": "Early Phonk",
+          "weight": 1
+        },
+        {
+          "text": "classic phonk",
+          "weight": 1
+        },
+        {
+          "text": "underground phonk",
+          "weight": 1
+        },
+        {
+          "text": "Memphis Rap influence",
+          "weight": 1
+        },
+        {
+          "text": "cassette-era production",
+          "weight": 1
+        },
+        {
+          "text": "lo-fi southern groove",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "hip_hop_attitude",
+      "type": "style",
+      "positive": [
+        {
+          "text": "hip-hop attitude only",
+          "weight": 1
+        },
+        {
+          "text": "relaxed groove talk",
+          "weight": 1
+        },
+        {
+          "text": "half-spoken delivery",
+          "weight": 1
+        },
+        {
+          "text": "calm authority",
+          "weight": 1
+        },
+        {
+          "text": "pocket-focused phrasing",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "young_jazz_musicians",
+      "type": "anime",
+      "positive": [
+        {
+          "text": "young jazz musicians",
+          "weight": 1
+        },
+        {
+          "text": "musical discovery",
+          "weight": 1
+        },
+        {
+          "text": "learning through performance",
+          "weight": 1
+        },
+        {
+          "text": "creative friendship",
+          "weight": 1
+        },
+        {
+          "text": "jazz as personal growth",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "four_by_four_two_step_hybrid",
+      "type": "rhythm",
+      "positive": [
+        {
+          "text": "4x4 kick layered with 2-step groove",
+          "weight": 1
+        },
+        {
+          "text": "syncopated swing",
+          "weight": 1
+        },
+        {
+          "text": "shuffled drums",
+          "weight": 1
+        },
+        {
+          "text": "club-focused pulse",
+          "weight": 1
+        },
+        {
+          "text": "deep 2-step movement",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "granular_synth_texture",
+      "type": "sound",
+      "positive": [
+        {
+          "text": "granular synth texture",
+          "weight": 1
+        },
+        {
+          "text": "micro-fragmented synth sounds",
+          "weight": 1
+        },
+        {
+          "text": "digital particles",
+          "weight": 1
+        },
+        {
+          "text": "subtle granular processing",
+          "weight": 1
+        },
+        {
+          "text": "texture-driven synthesis",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "harmonic_drift",
+      "type": "sound",
+      "positive": [
+        {
+          "text": "gentle harmonic drift",
+          "weight": 1
+        },
+        {
+          "text": "slow harmonic shifts",
+          "weight": 1
+        },
+        {
+          "text": "no clear progression",
+          "weight": 1
+        },
+        {
+          "text": "minimal color-based harmony",
+          "weight": 1
+        },
+        {
+          "text": "long gaps between harmonic events",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    }
+  ],
+  "categories": [],
+  "label": "Jazzy Electro-Hop 01",
+  "templateId": "default",
+  "fileName": "jazzy-electro-hop-01.json"
+}

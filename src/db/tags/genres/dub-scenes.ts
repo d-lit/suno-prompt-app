@@ -16,7 +16,7 @@ export default [
     id: 'jamaican_dub',
     comment:
       'Классический ямайский студийный dub: аналоговый микшер, tape echo, spring reverb и бас как центр трека.',
-    group: 'jamaican',
+    group: 'dub',
     label: 'Jamaican Dub',
     positive: [
       { text: 'Jamaican Dub' },
@@ -31,7 +31,7 @@ export default [
     id: 'roots_dub_scene',
     comment:
       'Roots dub как глубокая, органичная и басовая версия reggae-продакшена.',
-    group: 'jamaican',
+    group: 'dub',
     label: 'Roots Dub Scene',
     positive: [
       { text: 'Roots Dub' },
@@ -50,7 +50,7 @@ export default [
     id: 'uk_dub',
     comment:
       'Британская sound system школа: сабовое давление, тёмная комната, физический бас.',
-    group: 'uk',
+    group: 'dub',
     label: 'UK Dub',
     positive: [
       { text: 'UK Dub' },
@@ -65,7 +65,7 @@ export default [
     id: 'sound_system_dub',
     comment:
       'Dub как sound system experience: не песня, а давление, пространство и басовая физика.',
-    group: 'uk',
+    group: 'dub',
     label: 'Sound System Dub',
     positive: [
       { text: 'Sound System Dub' },
@@ -84,7 +84,7 @@ export default [
     id: 'steppers_dub',
     comment:
       '4x4 dub pulse. Самый полезный мост между reggae, dub, techno и bass music.',
-    group: 'steppers',
+    group: 'dub',
     label: 'Steppers Dub',
     positive: [
       { text: 'Steppers Dub' },
@@ -99,7 +99,7 @@ export default [
   {
     id: 'militant_steppers',
     comment: 'Более жёсткая и маршево-гипнотическая steppers-ветка.',
-    group: 'steppers',
+    group: 'dub',
     label: 'Militant Steppers',
     positive: [
       { text: 'Militant Steppers' },
@@ -118,7 +118,7 @@ export default [
     id: 'french_dub',
     comment:
       'Французская/европейская dub-сцена: темнее, кинематографичнее и электроннее классической Ямайки.',
-    group: 'european',
+    group: 'dub',
     label: 'French Dub',
     positive: [
       { text: 'French Dub' },
@@ -133,7 +133,7 @@ export default [
     id: 'dark_european_dub',
     comment:
       'Тёмный европейский dub с электронным продакшеном, холодным пространством и плотным сабом.',
-    group: 'european',
+    group: 'dub',
     label: 'Dark European Dub',
     positive: [
       { text: 'Dark European Dub' },
@@ -149,7 +149,7 @@ export default [
     id: 'electronic_dub',
     comment:
       'Dub с более электронной ритм-секцией и синтетическими текстурами.',
-    group: 'european',
+    group: 'dub',
     label: 'Electronic Dub',
     positive: [
       { text: 'Electronic Dub' },
@@ -169,7 +169,7 @@ export default [
     id: 'modern_dub_scene',
     comment:
       'Современная bass-oriented dub-сцена: саб, минимализм, электронные эффекты и тёмная клубная подача.',
-    group: 'modern',
+    group: 'dub',
     label: 'Modern Dub Scene',
     positive: [
       { text: 'Modern Dub' },
@@ -185,7 +185,7 @@ export default [
     id: 'bass_dub',
     comment:
       'Dub как часть bass music: меньше roots-эстетики, больше саба, пространства и клубного давления.',
-    group: 'modern',
+    group: 'dub',
     label: 'Bass Dub',
     positive: [
       { text: 'Bass Dub' },

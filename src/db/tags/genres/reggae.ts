@@ -8,7 +8,7 @@ export default [
     id: 'roots_reggae',
     comment:
       'Классический roots reggae. Медленный грув, акцент на басе и оффбитах.',
-    group: 'roots',
+    group: 'reggae',
     label: 'Roots Reggae',
     positive: [
       { text: 'Roots Reggae' },
@@ -23,7 +23,7 @@ export default [
     id: 'classic_reggae',
     comment:
       'Базовый классический reggae без ухода в dancehall или pop-reggae.',
-    group: 'roots',
+    group: 'reggae',
     label: 'Classic Reggae',
     positive: [
       { text: 'Classic Reggae' },
@@ -42,7 +42,7 @@ export default [
     id: 'one_drop_reggae',
     comment:
       'Самый узнаваемый ритм регги. Расслабленный грув с характерным one drop ощущением.',
-    group: 'rhythm',
+    group: 'reggae',
     label: 'One Drop Reggae',
     positive: [
       { text: 'One Drop Reggae' },
@@ -56,7 +56,7 @@ export default [
   {
     id: 'rockers_reggae',
     comment: 'Более драйвовая и плотная барабанная школа reggae.',
-    group: 'rhythm',
+    group: 'reggae',
     label: 'Rockers Reggae',
     positive: [
       { text: 'Rockers Reggae' },
@@ -71,7 +71,7 @@ export default [
     id: 'steppers_reggae',
     comment:
       'Регги с 4x4 бочкой. Самый полезный ритмический мост к dub, techno и bass music.',
-    group: 'rhythm',
+    group: 'reggae',
     label: 'Steppers Reggae',
     positive: [
       { text: 'Steppers Reggae' },
@@ -85,7 +85,7 @@ export default [
   {
     id: 'reggae_skank',
     comment: 'Акцент на offbeat-гитару и клавишный skank.',
-    group: 'rhythm',
+    group: 'reggae',
     label: 'Reggae Skank',
     positive: [
       { text: 'Reggae Skank' },
@@ -104,7 +104,7 @@ export default [
     id: 'digital_reggae',
     comment:
       'Цифровая эпоха reggae и раннего dancehall: драм-машины, синтетические басы, сухой грув.',
-    group: 'digital',
+    group: 'reggae',
     label: 'Digital Reggae',
     positive: [
       { text: 'Digital Reggae' },
@@ -118,7 +118,7 @@ export default [
   {
     id: 'rub_a_dub',
     comment: 'Rub-a-dub как более живая и грувовая reggae/dancehall-связка.',
-    group: 'digital',
+    group: 'reggae',
     label: 'Rub-a-Dub',
     positive: [
       { text: 'Rub-a-Dub' },

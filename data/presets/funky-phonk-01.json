@@ -1,0 +1,205 @@
+{
+  "id": "e04bfe9d-6f19-4275-af6e-11c8dfea5619",
+  "activeTags": [
+    {
+      "tagId": "memphis_rap",
+      "type": "genre",
+      "positive": [
+        {
+          "text": "Memphis Rap",
+          "weight": 1
+        },
+        {
+          "text": "cassette tape texture",
+          "weight": 1
+        },
+        {
+          "text": "lo-fi underground production",
+          "weight": 1
+        },
+        {
+          "text": "raw drum machine groove",
+          "weight": 1
+        },
+        {
+          "text": "dark southern atmosphere",
+          "weight": 1
+        },
+        {
+          "text": "underground cassette culture",
+          "weight": 1
+        },
+        {
+          "text": "dark repetitive loops",
+          "weight": 1
+        },
+        {
+          "text": "minimal sample-driven production",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "tagId": "breakbeat_electro",
+      "type": "genre",
+      "positive": [
+        {
+          "text": "breakbeat electro",
+          "weight": 1
+        },
+        {
+          "text": "electro breakbeat patterns",
+          "weight": 1
+        },
+        {
+          "text": "funky broken drums",
+          "weight": 1
+        },
+        {
+          "text": "dynamic machine rhythm",
+          "weight": 1
+        },
+        {
+          "text": "electronic groove science",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "city_pop_harmony",
+      "type": "style",
+      "positive": [
+        {
+          "text": "lush city pop harmony",
+          "weight": 1
+        },
+        {
+          "text": "maj7 chords",
+          "weight": 1
+        },
+        {
+          "text": "smooth transitions",
+          "weight": 1
+        },
+        {
+          "text": "nostalgic Japanese tone",
+          "weight": 1
+        },
+        {
+          "text": "clean guitar licks",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "identity_fragmentation",
+      "type": "anime",
+      "positive": [
+        {
+          "text": "identity fragmentation",
+          "weight": 1
+        },
+        {
+          "text": "self split between body and data",
+          "weight": 1
+        },
+        {
+          "text": "uncertain human identity",
+          "weight": 1
+        },
+        {
+          "text": "fractured consciousness",
+          "weight": 1
+        },
+        {
+          "text": "lost sense of self",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "kitchen_funk_percussion",
+      "type": "rhythm",
+      "positive": [
+        {
+          "text": "dry kitchen-funk percussion",
+          "weight": 1
+        },
+        {
+          "text": "found sounds",
+          "weight": 1
+        },
+        {
+          "text": "metallic clicks",
+          "weight": 1
+        },
+        {
+          "text": "wood taps",
+          "weight": 1
+        },
+        {
+          "text": "kitchen-object sounds",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "clicks",
+      "type": "sound",
+      "positive": [
+        {
+          "text": "click textures",
+          "weight": 1
+        },
+        {
+          "text": "tiny clicks",
+          "weight": 1
+        },
+        {
+          "text": "percussive clicks",
+          "weight": 1
+        },
+        {
+          "text": "dry click details",
+          "weight": 1
+        },
+        {
+          "text": "minimal transient events",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "synth_arpeggios",
+      "type": "sound",
+      "positive": [
+        {
+          "text": "Synth Arpeggios",
+          "weight": 1
+        },
+        {
+          "text": "sequenced synth patterns",
+          "weight": 1
+        },
+        {
+          "text": "repeating melodic figures",
+          "weight": 1
+        },
+        {
+          "text": "electronic motion",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    }
+  ],
+  "categories": [],
+  "label": "Funky Phonk 01",
+  "templateId": "default",
+  "fileName": "funky-phonk-01.json"
+}

@@ -1,0 +1,254 @@
+{
+  "id": "91ae665d-1624-44c8-90b4-e3ca5e00daf1",
+  "activeTags": [
+    {
+      "tagId": "eighties_synth_pop",
+      "type": "genre",
+      "positive": [
+        {
+          "text": "80s Synth Pop",
+          "weight": 1
+        },
+        {
+          "text": "bright 80s synthesizers",
+          "weight": 1
+        },
+        {
+          "text": "melodic synth hooks",
+          "weight": 1
+        },
+        {
+          "text": "electronic pop arrangement",
+          "weight": 1
+        },
+        {
+          "text": "drum machine groove",
+          "weight": 1
+        },
+        {
+          "text": "big reverb production",
+          "weight": 1
+        },
+        {
+          "text": "vintage 80s pop production",
+          "weight": 1
+        },
+        {
+          "text": "analog synth textures",
+          "weight": 1
+        },
+        {
+          "text": "wide chorus effects",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "soulful",
+      "type": "style",
+      "positive": [
+        {
+          "text": "soulful",
+          "weight": 1
+        },
+        {
+          "text": "warm emotional tone",
+          "weight": 1
+        },
+        {
+          "text": "soft vocal fragments",
+          "weight": 1
+        },
+        {
+          "text": "intimate feeling",
+          "weight": 1
+        },
+        {
+          "text": "emotional depth without sweetness overload",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "found_sound_micro_percussion",
+      "type": "rhythm",
+      "positive": [
+        {
+          "text": "found-sound percussion",
+          "weight": 1
+        },
+        {
+          "text": "syncopated micro-percussion",
+          "weight": 1
+        },
+        {
+          "text": "tiny rhythmic details",
+          "weight": 1
+        },
+        {
+          "text": "fragmented percussive elements",
+          "weight": 1
+        },
+        {
+          "text": "organic and synthetic textures",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "off_grid_timing",
+      "type": "rhythm",
+      "positive": [
+        {
+          "text": "off-grid timing",
+          "weight": 1
+        },
+        {
+          "text": "irregular accents",
+          "weight": 1
+        },
+        {
+          "text": "natural gaps",
+          "weight": 1
+        },
+        {
+          "text": "unexpected accents",
+          "weight": 1
+        },
+        {
+          "text": "slightly imperfect timing",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "broken_rhythm",
+      "type": "rhythm",
+      "positive": [
+        {
+          "text": "broken rhythm",
+          "weight": 1
+        },
+        {
+          "text": "fragmented rhythmic structure",
+          "weight": 1
+        },
+        {
+          "text": "irregular accents",
+          "weight": 1
+        },
+        {
+          "text": "off-grid timing",
+          "weight": 1
+        },
+        {
+          "text": "forward-moving groove",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "resonant_metal",
+      "type": "sound",
+      "positive": [
+        {
+          "text": "resonant metal tones",
+          "weight": 1
+        },
+        {
+          "text": "ringing metallic resonance",
+          "weight": 1
+        },
+        {
+          "text": "sustained metallic harmonics",
+          "weight": 1
+        },
+        {
+          "text": "metal resonance",
+          "weight": 1
+        },
+        {
+          "text": "industrial overtones",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "musique_concrete",
+      "type": "sound",
+      "positive": [
+        {
+          "text": "Musique Concrète",
+          "weight": 1
+        },
+        {
+          "text": "Musique Concrète",
+          "weight": 1
+        },
+        {
+          "text": "Concrete Music",
+          "weight": 1
+        },
+        {
+          "text": "Found Sounds",
+          "weight": 1
+        },
+        {
+          "text": "Experimental Sound Collage",
+          "weight": 1
+        },
+        {
+          "text": "Field Recordings",
+          "weight": 1
+        },
+        {
+          "text": "Found Sounds",
+          "weight": 1
+        },
+        {
+          "text": "Location Recordings",
+          "weight": 1
+        },
+        {
+          "text": "Environmental Recordings",
+          "weight": 1
+        },
+        {
+          "text": "Mechanical Clicks",
+          "weight": 1
+        },
+        {
+          "text": "Switch Clicks",
+          "weight": 1
+        },
+        {
+          "text": "Machine Clicks",
+          "weight": 1
+        },
+        {
+          "text": "Mechanical Whirring",
+          "weight": 1
+        },
+        {
+          "text": "Industrial Sounds",
+          "weight": 1
+        },
+        {
+          "text": "Relay Clicks",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    }
+  ],
+  "categories": [],
+  "label": "Synth Pop 01",
+  "templateId": "default",
+  "fileName": "synth-pop-01.json"
+}

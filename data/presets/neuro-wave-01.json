@@ -1,0 +1,194 @@
+{
+  "id": "c8ab467c-66dc-4367-80c8-f3e8a786ad72",
+  "activeTags": [
+    {
+      "tagId": "crate_digger",
+      "type": "genre",
+      "positive": [
+        {
+          "text": "crate digger aesthetic",
+          "weight": 1
+        },
+        {
+          "text": "rare record discoveries",
+          "weight": 1
+        },
+        {
+          "text": "deep sample culture",
+          "weight": 1
+        },
+        {
+          "text": "obscure musical fragments",
+          "weight": 1
+        },
+        {
+          "text": "vinyl collector atmosphere",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "cinematic",
+      "type": "style",
+      "positive": [
+        {
+          "text": "cinematic",
+          "weight": 1
+        },
+        {
+          "text": "wide cinematic pads",
+          "weight": 1
+        },
+        {
+          "text": "spacious atmosphere",
+          "weight": 1
+        },
+        {
+          "text": "emotional but controlled",
+          "weight": 1
+        },
+        {
+          "text": "evolving textures",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "cosmic_loneliness",
+      "type": "anime",
+      "positive": [
+        {
+          "text": "cosmic loneliness",
+          "weight": 1
+        },
+        {
+          "text": "human solitude in space",
+          "weight": 1
+        },
+        {
+          "text": "quiet distance from Earth",
+          "weight": 1
+        },
+        {
+          "text": "vast empty surroundings",
+          "weight": 1
+        },
+        {
+          "text": "emotional isolation in orbit",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "off_grid_timing",
+      "type": "rhythm",
+      "positive": [
+        {
+          "text": "off-grid timing",
+          "weight": 1
+        },
+        {
+          "text": "irregular accents",
+          "weight": 1
+        },
+        {
+          "text": "natural gaps",
+          "weight": 1
+        },
+        {
+          "text": "unexpected accents",
+          "weight": 1
+        },
+        {
+          "text": "slightly imperfect timing",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "percussive_bass_notes",
+      "type": "sound",
+      "positive": [
+        {
+          "text": "minimal bass pulses",
+          "weight": 1
+        },
+        {
+          "text": "short percussive bass notes",
+          "weight": 1
+        },
+        {
+          "text": "short distorted bass notes",
+          "weight": 1
+        },
+        {
+          "text": "funky percussive low-end movement",
+          "weight": 1
+        },
+        {
+          "text": "bass notes supporting the rhythm",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "no_neuro_aggression",
+      "type": "sound",
+      "positive": [
+        {
+          "text": "no neuro aggression",
+          "weight": 1
+        },
+        {
+          "text": "no aggressive neuro sound",
+          "weight": 1
+        },
+        {
+          "text": "smooth bass movement",
+          "weight": 1
+        },
+        {
+          "text": "controlled sub depth",
+          "weight": 1
+        },
+        {
+          "text": "bass remains smooth and musical",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "synth_arpeggios",
+      "type": "sound",
+      "positive": [
+        {
+          "text": "Synth Arpeggios",
+          "weight": 1
+        },
+        {
+          "text": "sequenced synth patterns",
+          "weight": 1
+        },
+        {
+          "text": "repeating melodic figures",
+          "weight": 1
+        },
+        {
+          "text": "electronic motion",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    }
+  ],
+  "categories": [],
+  "label": "Neuro Wave 01",
+  "templateId": "default",
+  "fileName": "neuro-wave-01.json"
+}

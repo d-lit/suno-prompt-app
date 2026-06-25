@@ -1,0 +1,198 @@
+{
+  "id": "ded7f51a-127d-44a7-8b8d-7aeef0174601",
+  "activeTags": [
+    {
+      "tagId": "detroit_house",
+      "type": "genre",
+      "positive": [
+        {
+          "text": "Detroit house",
+          "weight": 1
+        },
+        {
+          "text": "minimal house drums",
+          "weight": 1
+        },
+        {
+          "text": "clean low-end",
+          "weight": 1
+        },
+        {
+          "text": "cool hypnotic mood",
+          "weight": 1
+        },
+        {
+          "text": "space and repetition emphasized",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "abstract",
+      "type": "style",
+      "positive": [
+        {
+          "text": "abstract",
+          "weight": 1
+        },
+        {
+          "text": "fragmented percussion",
+          "weight": 1
+        },
+        {
+          "text": "texture-focused",
+          "weight": 1
+        },
+        {
+          "text": "minimal harmonic movement",
+          "weight": 1
+        },
+        {
+          "text": "non-linear feel",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "synthetic_environment",
+      "type": "anime",
+      "positive": [
+        {
+          "text": "synthetic environment",
+          "weight": 1
+        },
+        {
+          "text": "controlled artificial space",
+          "weight": 1
+        },
+        {
+          "text": "life inside engineered systems",
+          "weight": 1
+        },
+        {
+          "text": "manufactured atmosphere",
+          "weight": 1
+        },
+        {
+          "text": "closed technological world",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "found_sound_micro_percussion",
+      "type": "rhythm",
+      "positive": [
+        {
+          "text": "found-sound percussion",
+          "weight": 1
+        },
+        {
+          "text": "syncopated micro-percussion",
+          "weight": 1
+        },
+        {
+          "text": "tiny rhythmic details",
+          "weight": 1
+        },
+        {
+          "text": "fragmented percussive elements",
+          "weight": 1
+        },
+        {
+          "text": "organic and synthetic textures",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "ghost_notes",
+      "type": "rhythm",
+      "positive": [
+        {
+          "text": "ghost notes",
+          "weight": 1
+        },
+        {
+          "text": "dense ghost notes",
+          "weight": 1
+        },
+        {
+          "text": "subtle ghost notes",
+          "weight": 1
+        },
+        {
+          "text": "expressive placement",
+          "weight": 1
+        },
+        {
+          "text": "dynamic snare accents",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "dilla_groove",
+      "type": "rhythm",
+      "positive": [
+        {
+          "text": "Dilla-style drum groove",
+          "weight": 1
+        },
+        {
+          "text": "loose swing",
+          "weight": 1
+        },
+        {
+          "text": "deep pocket rhythm",
+          "weight": 1
+        },
+        {
+          "text": "relaxed human timing",
+          "weight": 1
+        },
+        {
+          "text": "subtle ghost notes",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "metal_hits",
+      "type": "sound",
+      "positive": [
+        {
+          "text": "metal impacts",
+          "weight": 1
+        },
+        {
+          "text": "metal strikes",
+          "weight": 1
+        },
+        {
+          "text": "industrial percussion hits",
+          "weight": 1
+        },
+        {
+          "text": "resonant metal sounds",
+          "weight": 1
+        },
+        {
+          "text": "physical metal interaction",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    }
+  ],
+  "categories": [],
+  "label": "Industrial 01",
+  "templateId": "default",
+  "fileName": "industrial-01.json"
+}
