@@ -1,0 +1,185 @@
+{
+  "id": "25562d1e-1c8a-469d-a787-f5821a70c91b",
+  "activeTags": [
+    {
+      "tagId": "mechanical_foley",
+      "type": "sound",
+      "positive": [
+        {
+          "text": "Mechanical Foley",
+          "weight": 1
+        },
+        {
+          "text": "Mechanical Clicks",
+          "weight": 1
+        },
+        {
+          "text": "Switch Clicks",
+          "weight": 1
+        },
+        {
+          "text": "Machine Clicks",
+          "weight": 1
+        },
+        {
+          "text": "Mechanical Whirring",
+          "weight": 1
+        },
+        {
+          "text": "Industrial Sounds",
+          "weight": 1
+        },
+        {
+          "text": "Relay Clicks",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "tagId": "cerebral",
+      "type": "style",
+      "positive": [
+        {
+          "text": "cerebral",
+          "weight": 1
+        },
+        {
+          "text": "meditative",
+          "weight": 1
+        },
+        {
+          "text": "cinematic",
+          "weight": 1
+        },
+        {
+          "text": "controlled intensity",
+          "weight": 1
+        },
+        {
+          "text": "deep focus atmosphere",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "tagId": "deep_140_bass",
+      "type": "genre",
+      "positive": [
+        {
+          "text": "deep 140 bass music",
+          "weight": 1
+        },
+        {
+          "text": "broken groove",
+          "weight": 1
+        },
+        {
+          "text": "tempo around 140 BPM",
+          "weight": 1
+        },
+        {
+          "text": "deep sub bass pressure",
+          "weight": 1
+        },
+        {
+          "text": "dub-influenced space",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "tagId": "hypnotic_acid",
+      "type": "genre",
+      "positive": [
+        {
+          "text": "Hypnotic Acid",
+          "weight": 1
+        },
+        {
+          "text": "TB-303",
+          "weight": 1
+        },
+        {
+          "text": "Roland TB-303",
+          "weight": 1
+        },
+        {
+          "text": "Resonant Basslines",
+          "weight": 1
+        },
+        {
+          "text": "303 Filter Sweep",
+          "weight": 1
+        },
+        {
+          "text": "Acid Filter Sweep",
+          "weight": 1
+        },
+        {
+          "text": "Squelchy Acid",
+          "weight": 1
+        },
+        {
+          "text": "Squelchy 303 Bassline",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "tagId": "melodic_neuro_bass",
+      "type": "sound",
+      "positive": [
+        {
+          "text": "deep melodic bassline with smooth neuro-inspired tone",
+          "weight": 1
+        },
+        {
+          "text": "melodic neuro bass",
+          "weight": 1
+        },
+        {
+          "text": "smooth neuro-inspired character",
+          "weight": 1
+        },
+        {
+          "text": "controlled movement",
+          "weight": 1
+        },
+        {
+          "text": "rich low-mid presence",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "tagId": "cyberpunk_anime",
+      "type": "anime",
+      "positive": [
+        {
+          "text": "cyberpunk anime atmosphere",
+          "weight": 1
+        },
+        {
+          "text": "neon city dystopia",
+          "weight": 1
+        },
+        {
+          "text": "high-tech low-life mood",
+          "weight": 1
+        },
+        {
+          "text": "urban technological decay",
+          "weight": 1
+        },
+        {
+          "text": "Japanese cyberpunk feeling",
+          "weight": 1
+        }
+      ]
+    }
+  ],
+  "categories": [],
+  "label": "Acid Cyberpunk 140 01",
+  "templateId": "default",
+  "fileName": "acid-cyberpunk-140-01.json"
+}

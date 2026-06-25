@@ -1,0 +1,137 @@
+{
+  "id": "dd42dfdb-46ed-4889-b60e-ad7ab9a8a16e",
+  "activeTags": [
+    {
+      "tagId": "memphis_rap",
+      "type": "genre",
+      "positive": [
+        {
+          "text": "Memphis Rap",
+          "weight": 1
+        },
+        {
+          "text": "cassette tape texture",
+          "weight": 1
+        },
+        {
+          "text": "lo-fi underground production",
+          "weight": 1
+        },
+        {
+          "text": "raw drum machine groove",
+          "weight": 1
+        },
+        {
+          "text": "dark southern atmosphere",
+          "weight": 1
+        },
+        {
+          "text": "underground cassette culture",
+          "weight": 1
+        },
+        {
+          "text": "dark repetitive loops",
+          "weight": 1
+        },
+        {
+          "text": "minimal sample-driven production",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "tagId": "uk_bass",
+      "type": "genre",
+      "positive": [
+        {
+          "text": "UK bass",
+          "weight": 1
+        },
+        {
+          "text": "broken rhythm",
+          "weight": 1
+        },
+        {
+          "text": "forward-moving groove",
+          "weight": 1
+        },
+        {
+          "text": "deep sub bass",
+          "weight": 1
+        },
+        {
+          "text": "underground electronic atmosphere",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "tagId": "hypnotic_acid",
+      "type": "genre",
+      "positive": [
+        {
+          "text": "Hypnotic Acid",
+          "weight": 1
+        },
+        {
+          "text": "TB-303",
+          "weight": 1
+        },
+        {
+          "text": "Roland TB-303",
+          "weight": 1
+        },
+        {
+          "text": "Resonant Basslines",
+          "weight": 1
+        },
+        {
+          "text": "303 Filter Sweep",
+          "weight": 1
+        },
+        {
+          "text": "Acid Filter Sweep",
+          "weight": 1
+        },
+        {
+          "text": "Squelchy Acid",
+          "weight": 1
+        },
+        {
+          "text": "Squelchy 303 Bassline",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "tagId": "nineties_cyberpunk_anime",
+      "type": "anime",
+      "positive": [
+        {
+          "text": "90s cyberpunk anime atmosphere",
+          "weight": 1
+        },
+        {
+          "text": "late 80s cyberpunk animation mood",
+          "weight": 1
+        },
+        {
+          "text": "grainy Japanese cyberpunk",
+          "weight": 1
+        },
+        {
+          "text": "analog dystopian future",
+          "weight": 1
+        },
+        {
+          "text": "cult cyberpunk OVA feeling",
+          "weight": 1
+        }
+      ]
+    }
+  ],
+  "categories": [],
+  "label": "Acid Cyber Phonk 01",
+  "templateId": "default",
+  "fileName": "acid-cyber-phonk-01.json"
+}

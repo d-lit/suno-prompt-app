@@ -1,0 +1,185 @@
+{
+  "id": "1c6b9210-2f43-4536-9ef9-964bcd0343d4",
+  "activeTags": [
+    {
+      "tagId": "mechanical_foley",
+      "type": "sound",
+      "positive": [
+        {
+          "text": "Mechanical Foley",
+          "weight": 1
+        },
+        {
+          "text": "Mechanical Clicks",
+          "weight": 1
+        },
+        {
+          "text": "Switch Clicks",
+          "weight": 1
+        },
+        {
+          "text": "Machine Clicks",
+          "weight": 1
+        },
+        {
+          "text": "Mechanical Whirring",
+          "weight": 1
+        },
+        {
+          "text": "Industrial Sounds",
+          "weight": 1
+        },
+        {
+          "text": "Relay Clicks",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "tagId": "dark_neuro_bass",
+      "type": "sound",
+      "positive": [
+        {
+          "text": "deep neuro sub with analog warmth",
+          "weight": 1
+        },
+        {
+          "text": "dark neuro-inspired tone",
+          "weight": 1
+        },
+        {
+          "text": "subtle harmonic distortion",
+          "weight": 1
+        },
+        {
+          "text": "slight tape wobble",
+          "weight": 1
+        },
+        {
+          "text": "no plastic sound",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "tagId": "cerebral",
+      "type": "style",
+      "positive": [
+        {
+          "text": "cerebral",
+          "weight": 1
+        },
+        {
+          "text": "meditative",
+          "weight": 1
+        },
+        {
+          "text": "cinematic",
+          "weight": 1
+        },
+        {
+          "text": "controlled intensity",
+          "weight": 1
+        },
+        {
+          "text": "deep focus atmosphere",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "tagId": "deep_140_bass",
+      "type": "genre",
+      "positive": [
+        {
+          "text": "deep 140 bass music",
+          "weight": 1
+        },
+        {
+          "text": "broken groove",
+          "weight": 1
+        },
+        {
+          "text": "tempo around 140 BPM",
+          "weight": 1
+        },
+        {
+          "text": "deep sub bass pressure",
+          "weight": 1
+        },
+        {
+          "text": "dub-influenced space",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "tagId": "hypnotic_acid",
+      "type": "genre",
+      "positive": [
+        {
+          "text": "Hypnotic Acid",
+          "weight": 1
+        },
+        {
+          "text": "TB-303",
+          "weight": 1
+        },
+        {
+          "text": "Roland TB-303",
+          "weight": 1
+        },
+        {
+          "text": "Resonant Basslines",
+          "weight": 1
+        },
+        {
+          "text": "303 Filter Sweep",
+          "weight": 1
+        },
+        {
+          "text": "Acid Filter Sweep",
+          "weight": 1
+        },
+        {
+          "text": "Squelchy Acid",
+          "weight": 1
+        },
+        {
+          "text": "Squelchy 303 Bassline",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "tagId": "afro_hand_percussion",
+      "type": "rhythm",
+      "positive": [
+        {
+          "text": "layered hand percussion",
+          "weight": 1
+        },
+        {
+          "text": "Afro-style rhythms",
+          "weight": 1
+        },
+        {
+          "text": "congas and shakers",
+          "weight": 1
+        },
+        {
+          "text": "organic percussion patterns",
+          "weight": 1
+        },
+        {
+          "text": "fluid groove",
+          "weight": 1
+        }
+      ]
+    }
+  ],
+  "categories": [],
+  "label": "Dark 140 01",
+  "templateId": "default",
+  "fileName": "dark-140-01.json"
+}

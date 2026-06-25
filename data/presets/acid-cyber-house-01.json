@@ -1,0 +1,178 @@
+{
+  "id": "34498582-a3ab-4d1d-9d48-bfa554831908",
+  "activeTags": [
+    {
+      "tagId": "atmospheric",
+      "type": "style",
+      "positive": [
+        {
+          "text": "atmospheric",
+          "weight": 1
+        },
+        {
+          "text": "airy pads",
+          "weight": 1
+        },
+        {
+          "text": "spacious soundscape",
+          "weight": 1
+        },
+        {
+          "text": "subtle ambient textures",
+          "weight": 1
+        },
+        {
+          "text": "wide stereo field",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "cyberspace",
+      "type": "anime",
+      "positive": [
+        {
+          "text": "cyberspace atmosphere",
+          "weight": 1
+        },
+        {
+          "text": "digital inner world",
+          "weight": 1
+        },
+        {
+          "text": "virtual data environment",
+          "weight": 1
+        },
+        {
+          "text": "mind inside the network",
+          "weight": 1
+        },
+        {
+          "text": "abstract digital space",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "four_by_four",
+      "type": "rhythm",
+      "positive": [
+        {
+          "text": "steady four-on-the-floor pulse",
+          "weight": 1
+        },
+        {
+          "text": "4x4 kick",
+          "weight": 1
+        },
+        {
+          "text": "warm kick drum",
+          "weight": 1
+        },
+        {
+          "text": "club pulse",
+          "weight": 1
+        },
+        {
+          "text": "hypnotic repetition",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "buffer_stutters",
+      "type": "sound",
+      "positive": [
+        {
+          "text": "buffer stutters",
+          "weight": 1
+        },
+        {
+          "text": "repeating digital fragments",
+          "weight": 1
+        },
+        {
+          "text": "stuttering percussion",
+          "weight": 1
+        },
+        {
+          "text": "micro-loop artifacts",
+          "weight": 1
+        },
+        {
+          "text": "digital interruption effects",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "eighties_drum_machine",
+      "type": "sound",
+      "positive": [
+        {
+          "text": "80s Drum Machine",
+          "weight": 1
+        },
+        {
+          "text": "vintage drum machine",
+          "weight": 1
+        },
+        {
+          "text": "electronic drum groove",
+          "weight": 1
+        },
+        {
+          "text": "retro rhythm section",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "hypnotic_acid",
+      "type": "genre",
+      "positive": [
+        {
+          "text": "Hypnotic Acid",
+          "weight": 1
+        },
+        {
+          "text": "TB-303",
+          "weight": 1
+        },
+        {
+          "text": "Roland TB-303",
+          "weight": 1
+        },
+        {
+          "text": "Resonant Basslines",
+          "weight": 1
+        },
+        {
+          "text": "303 Filter Sweep",
+          "weight": 1
+        },
+        {
+          "text": "Acid Filter Sweep",
+          "weight": 1
+        },
+        {
+          "text": "Squelchy Acid",
+          "weight": 1
+        },
+        {
+          "text": "Squelchy 303 Bassline",
+          "weight": 1
+        }
+      ]
+    }
+  ],
+  "categories": [],
+  "label": "Acid Cyber House 01",
+  "templateId": "default",
+  "fileName": "acid-cyber-house-01.json"
+}

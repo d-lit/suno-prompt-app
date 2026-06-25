@@ -1,0 +1,225 @@
+{
+  "id": "176983bc-0075-484b-80bd-f94451f2df5b",
+  "activeTags": [
+    {
+      "tagId": "nu_skool_breaks",
+      "type": "genre",
+      "positive": [
+        {
+          "text": "Nu Skool Breaks",
+          "weight": 1
+        },
+        {
+          "text": "modern breakbeat production",
+          "weight": 1
+        },
+        {
+          "text": "electronic break grooves",
+          "weight": 1
+        },
+        {
+          "text": "club-oriented breakbeat sound",
+          "weight": 1
+        },
+        {
+          "text": "driving break rhythms",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "urban",
+      "type": "style",
+      "positive": [
+        {
+          "text": "urban",
+          "weight": 1
+        },
+        {
+          "text": "late-night city mood",
+          "weight": 1
+        },
+        {
+          "text": "night city ambience",
+          "weight": 1
+        },
+        {
+          "text": "street-level atmosphere",
+          "weight": 1
+        },
+        {
+          "text": "metropolitan club feeling",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "life_support_systems",
+      "type": "anime",
+      "positive": [
+        {
+          "text": "life support systems",
+          "weight": 1
+        },
+        {
+          "text": "air circulation machinery",
+          "weight": 1
+        },
+        {
+          "text": "closed technical environment",
+          "weight": 1
+        },
+        {
+          "text": "machines keeping people alive",
+          "weight": 1
+        },
+        {
+          "text": "quiet mechanical breathing",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "two_step_groove",
+      "type": "rhythm",
+      "positive": [
+        {
+          "text": "2-step groove",
+          "weight": 1
+        },
+        {
+          "text": "shuffled hi-hats",
+          "weight": 1
+        },
+        {
+          "text": "offbeat kick placement",
+          "weight": 1
+        },
+        {
+          "text": "tight snare",
+          "weight": 1
+        },
+        {
+          "text": "garage swing",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "found_sound_micro_percussion",
+      "type": "rhythm",
+      "positive": [
+        {
+          "text": "found-sound percussion",
+          "weight": 1
+        },
+        {
+          "text": "syncopated micro-percussion",
+          "weight": 1
+        },
+        {
+          "text": "tiny rhythmic details",
+          "weight": 1
+        },
+        {
+          "text": "fragmented percussive elements",
+          "weight": 1
+        },
+        {
+          "text": "organic and synthetic textures",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "rhodes_stabs",
+      "type": "sound",
+      "positive": [
+        {
+          "text": "Rhodes chord stabs",
+          "weight": 1
+        },
+        {
+          "text": "short Rhodes stabs",
+          "weight": 1
+        },
+        {
+          "text": "sparse electric piano accents",
+          "weight": 1
+        },
+        {
+          "text": "short harmonic accents",
+          "weight": 1
+        },
+        {
+          "text": "chord hits every 2-4 bars",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "circuit_clicks",
+      "type": "sound",
+      "positive": [
+        {
+          "text": "circuit clicks",
+          "weight": 1
+        },
+        {
+          "text": "electronic switching sounds",
+          "weight": 1
+        },
+        {
+          "text": "relay clicks",
+          "weight": 1
+        },
+        {
+          "text": "tiny electronic transients",
+          "weight": 1
+        },
+        {
+          "text": "machine control sounds",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "soft_shakers",
+      "type": "sound",
+      "positive": [
+        {
+          "text": "soft shaker textures",
+          "weight": 1
+        },
+        {
+          "text": "gentle shaker movement",
+          "weight": 1
+        },
+        {
+          "text": "light rhythmic air",
+          "weight": 1
+        },
+        {
+          "text": "subtle groove support",
+          "weight": 1
+        },
+        {
+          "text": "organic texture",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    }
+  ],
+  "categories": [],
+  "label": "Jazzy 2Step 01",
+  "templateId": "default",
+  "fileName": "jazzy-2step-01.json"
+}

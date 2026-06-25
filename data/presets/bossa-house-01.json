@@ -1,0 +1,198 @@
+{
+  "id": "88352273-7bb2-4caf-9f86-68f5ce1044bb",
+  "activeTags": [
+    {
+      "tagId": "instrumental_hip_hop",
+      "type": "genre",
+      "positive": [
+        {
+          "text": "instrumental hip-hop",
+          "weight": 1
+        },
+        {
+          "text": "beat-focused composition",
+          "weight": 1
+        },
+        {
+          "text": "groove over vocals",
+          "weight": 1
+        },
+        {
+          "text": "sample-driven instrumental",
+          "weight": 1
+        },
+        {
+          "text": "head-nod instrumental music",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "psychedelic",
+      "type": "style",
+      "positive": [
+        {
+          "text": "psychedelic electronic textures",
+          "weight": 1
+        },
+        {
+          "text": "strange modulation",
+          "weight": 1
+        },
+        {
+          "text": "unstable pitch movement",
+          "weight": 1
+        },
+        {
+          "text": "evolving atmospheric layers",
+          "weight": 1
+        },
+        {
+          "text": "wide spatial depth",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "digital_loneliness",
+      "type": "anime",
+      "positive": [
+        {
+          "text": "digital loneliness",
+          "weight": 1
+        },
+        {
+          "text": "alone inside the network",
+          "weight": 1
+        },
+        {
+          "text": "isolated among data streams",
+          "weight": 1
+        },
+        {
+          "text": "human distance in a connected world",
+          "weight": 1
+        },
+        {
+          "text": "quiet cybernetic solitude",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "four_by_four",
+      "type": "rhythm",
+      "positive": [
+        {
+          "text": "steady four-on-the-floor pulse",
+          "weight": 1
+        },
+        {
+          "text": "4x4 kick",
+          "weight": 1
+        },
+        {
+          "text": "warm kick drum",
+          "weight": 1
+        },
+        {
+          "text": "club pulse",
+          "weight": 1
+        },
+        {
+          "text": "hypnotic repetition",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "bossa_offset",
+      "type": "rhythm",
+      "positive": [
+        {
+          "text": "subtle rhythmic offset",
+          "weight": 1
+        },
+        {
+          "text": "very subtle offbeat accents hinting at bossa",
+          "weight": 1
+        },
+        {
+          "text": "minimal percussion",
+          "weight": 1
+        },
+        {
+          "text": "organic feel",
+          "weight": 1
+        },
+        {
+          "text": "soft syncopation",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "found_sounds",
+      "type": "sound",
+      "positive": [
+        {
+          "text": "found sounds",
+          "weight": 1
+        },
+        {
+          "text": "field-recorded objects",
+          "weight": 1
+        },
+        {
+          "text": "everyday sound sources",
+          "weight": 1
+        },
+        {
+          "text": "non-musical sounds used rhythmically",
+          "weight": 1
+        },
+        {
+          "text": "organic texture events",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "soft_bossa_shakers",
+      "type": "sound",
+      "positive": [
+        {
+          "text": "soft bossa shakers",
+          "weight": 1
+        },
+        {
+          "text": "gentle shaker movement",
+          "weight": 1
+        },
+        {
+          "text": "light tropical texture",
+          "weight": 1
+        },
+        {
+          "text": "subtle rhythmic air",
+          "weight": 1
+        },
+        {
+          "text": "organic groove detail",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    }
+  ],
+  "categories": [],
+  "label": "Bossa House 01",
+  "templateId": "default",
+  "fileName": "bossa-house-01.json"
+}

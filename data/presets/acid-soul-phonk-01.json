@@ -1,0 +1,111 @@
+{
+  "id": "34a28e2f-effd-4a35-8a6a-b9b7389adb27",
+  "activeTags": [
+    {
+      "tagId": "memphis_rap",
+      "type": "genre",
+      "positive": [
+        {
+          "text": "Memphis Rap",
+          "weight": 1
+        },
+        {
+          "text": "cassette tape texture",
+          "weight": 1
+        },
+        {
+          "text": "lo-fi underground production",
+          "weight": 1
+        },
+        {
+          "text": "raw drum machine groove",
+          "weight": 1
+        },
+        {
+          "text": "dark southern atmosphere",
+          "weight": 1
+        },
+        {
+          "text": "underground cassette culture",
+          "weight": 1
+        },
+        {
+          "text": "dark repetitive loops",
+          "weight": 1
+        },
+        {
+          "text": "minimal sample-driven production",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "tagId": "future_soul",
+      "type": "genre",
+      "positive": [
+        {
+          "text": "future soul",
+          "weight": 1
+        },
+        {
+          "text": "electronic soul influence",
+          "weight": 1
+        },
+        {
+          "text": "modern groove architecture",
+          "weight": 1
+        },
+        {
+          "text": "forward-looking harmony",
+          "weight": 1
+        },
+        {
+          "text": "contemporary soulful textures",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "tagId": "hypnotic_acid",
+      "type": "genre",
+      "positive": [
+        {
+          "text": "Hypnotic Acid",
+          "weight": 1
+        },
+        {
+          "text": "TB-303",
+          "weight": 1
+        },
+        {
+          "text": "Roland TB-303",
+          "weight": 1
+        },
+        {
+          "text": "Resonant Basslines",
+          "weight": 1
+        },
+        {
+          "text": "303 Filter Sweep",
+          "weight": 1
+        },
+        {
+          "text": "Acid Filter Sweep",
+          "weight": 1
+        },
+        {
+          "text": "Squelchy Acid",
+          "weight": 1
+        },
+        {
+          "text": "Squelchy 303 Bassline",
+          "weight": 1
+        }
+      ]
+    }
+  ],
+  "categories": [],
+  "label": "Acid Soul Phonk 01",
+  "templateId": "default",
+  "fileName": "acid-soul-phonk-01.json"
+}
