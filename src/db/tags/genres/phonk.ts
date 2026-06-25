@@ -16,7 +16,6 @@ export default [
     group: 'memphis',
     label: 'Memphis Rap',
     positive: [
-      { text: 'Memphis Rap' },
       ...memphisPositive,
       { text: 'underground cassette culture' },
       { text: 'dark repetitive loops' },

@@ -106,33 +106,35 @@ export const TagGroup = ({
         marginBottom: 16,
       }}
     >
-      {groupedTags.map((group) => {
-        const isActive = group.id === activeGroup?.id;
+      {groupedTags
+        .sort((a, b) => a.id.localeCompare(b.id))
+        .map((group) => {
+          const isActive = group.id === activeGroup?.id;
 
-        const hasActiveTags = group.tags.some((tag) => {
-          return activeTags.some((activeTag) => {
-            return activeTag.tagId === tag.id;
+          const hasActiveTags = group.tags.some((tag) => {
+            return activeTags.some((activeTag) => {
+              return activeTag.tagId === tag.id;
+            });
           });
-        });
 
-        return (
-          <button
-            key={group.id}
-            style={{
-              color: hasActiveTags ? 'tomato' : undefined,
-              cursor: 'pointer',
-              fontWeight: isActive || hasActiveTags ? 700 : 400,
-              opacity: isActive || hasActiveTags ? 1 : 0.65,
-            }}
-            type="button"
-            onClick={() => {
-              setActiveGroupId(group.id);
-            }}
-          >
-            {group.label}
-          </button>
-        );
-      })}
+          return (
+            <button
+              key={group.id}
+              style={{
+                color: hasActiveTags ? 'tomato' : undefined,
+                cursor: 'pointer',
+                fontWeight: isActive || hasActiveTags ? 700 : 400,
+                opacity: isActive || hasActiveTags ? 1 : 0.65,
+              }}
+              type="button"
+              onClick={() => {
+                setActiveGroupId(group.id);
+              }}
+            >
+              {group.label}
+            </button>
+          );
+        })}
     </div>
   );
 
