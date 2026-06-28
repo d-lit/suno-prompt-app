@@ -1,0 +1,241 @@
+{
+  "id": "6883973d-19aa-4382-b1e2-85f03bb38f68",
+  "activeTags": [
+    {
+      "tagId": "eighties_dance_pop",
+      "type": "genre",
+      "positive": [
+        {
+          "text": "80s Dance Pop",
+          "weight": 1
+        },
+        {
+          "text": "European 80s dance-pop energy",
+          "weight": 1
+        },
+        {
+          "text": "bright hand claps",
+          "weight": 1
+        },
+        {
+          "text": "driving synth bass",
+          "weight": 1
+        },
+        {
+          "text": "catchy melodic hooks",
+          "weight": 1
+        },
+        {
+          "text": "glossy late-80s production",
+          "weight": 1
+        },
+        {
+          "text": "catchy pop chorus structure",
+          "weight": 1
+        },
+        {
+          "text": "bright dance-pop arrangement",
+          "weight": 1
+        },
+        {
+          "text": "radio-friendly 80s production",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "leftfield",
+      "type": "style",
+      "positive": [
+        {
+          "text": "leftfield",
+          "weight": 1
+        },
+        {
+          "text": "experimental character",
+          "weight": 1
+        },
+        {
+          "text": "abstract structure",
+          "weight": 1
+        },
+        {
+          "text": "unusual sound design",
+          "weight": 1
+        },
+        {
+          "text": "less predictable arrangement",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "street_philosophy",
+      "type": "anime",
+      "positive": [
+        {
+          "text": "street philosophy",
+          "weight": 1
+        },
+        {
+          "text": "reflection through everyday life",
+          "weight": 1
+        },
+        {
+          "text": "quiet wisdom",
+          "weight": 1
+        },
+        {
+          "text": "urban observation",
+          "weight": 1
+        },
+        {
+          "text": "thoughts while moving through the city",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "broken_rhythm",
+      "type": "rhythm",
+      "positive": [
+        {
+          "text": "broken rhythm",
+          "weight": 1
+        },
+        {
+          "text": "fragmented rhythmic structure",
+          "weight": 1
+        },
+        {
+          "text": "irregular accents",
+          "weight": 1
+        },
+        {
+          "text": "off-grid timing",
+          "weight": 1
+        },
+        {
+          "text": "forward-moving groove",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "sparse_drums",
+      "type": "rhythm",
+      "positive": [
+        {
+          "text": "sparse drums",
+          "weight": 1
+        },
+        {
+          "text": "minimal kick and snare",
+          "weight": 1
+        },
+        {
+          "text": "space between hits",
+          "weight": 1
+        },
+        {
+          "text": "negative space",
+          "weight": 1
+        },
+        {
+          "text": "controlled placement",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "hip_hop_swing",
+      "type": "rhythm",
+      "positive": [
+        {
+          "text": "hip-hop swing feel",
+          "weight": 1
+        },
+        {
+          "text": "loose human swing",
+          "weight": 1
+        },
+        {
+          "text": "hard swing",
+          "weight": 1
+        },
+        {
+          "text": "MPC-style groove",
+          "weight": 1
+        },
+        {
+          "text": "head-nod groove",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "mechanical_clicks",
+      "type": "sound",
+      "positive": [
+        {
+          "text": "mechanical clicks",
+          "weight": 1
+        },
+        {
+          "text": "machine detail sounds",
+          "weight": 1
+        },
+        {
+          "text": "tiny mechanical impacts",
+          "weight": 1
+        },
+        {
+          "text": "mechanical rhythmic texture",
+          "weight": 1
+        },
+        {
+          "text": "clockwork-like events",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "dark_neuro_bass",
+      "type": "sound",
+      "positive": [
+        {
+          "text": "deep neuro sub with analog warmth",
+          "weight": 1
+        },
+        {
+          "text": "dark neuro-inspired tone",
+          "weight": 1
+        },
+        {
+          "text": "subtle harmonic distortion",
+          "weight": 1
+        },
+        {
+          "text": "slight tape wobble",
+          "weight": 1
+        },
+        {
+          "text": "no plastic sound",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    }
+  ],
+  "categories": [],
+  "label": "Neuro Dance Pop 01",
+  "templateId": "default",
+  "fileName": "neuro-dance-pop-01.json"
+}

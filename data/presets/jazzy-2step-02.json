@@ -1,0 +1,198 @@
+{
+  "id": "f9380afc-9fdc-408a-b398-ce4cfe2c41b8",
+  "activeTags": [
+    {
+      "tagId": "soul_jazz",
+      "type": "genre",
+      "positive": [
+        {
+          "text": "soul jazz",
+          "weight": 1
+        },
+        {
+          "text": "jazz harmony with soulful groove",
+          "weight": 1
+        },
+        {
+          "text": "warm instrumental interplay",
+          "weight": 1
+        },
+        {
+          "text": "organic musicianship",
+          "weight": 1
+        },
+        {
+          "text": "groove-oriented jazz feeling",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "experimental",
+      "type": "style",
+      "positive": [
+        {
+          "text": "experimental",
+          "weight": 1
+        },
+        {
+          "text": "unconventional structure",
+          "weight": 1
+        },
+        {
+          "text": "sound design focus",
+          "weight": 1
+        },
+        {
+          "text": "unusual rhythmic details",
+          "weight": 1
+        },
+        {
+          "text": "raw experimental atmosphere",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "neighborhood_walk",
+      "type": "anime",
+      "positive": [
+        {
+          "text": "neighborhood walk",
+          "weight": 1
+        },
+        {
+          "text": "wandering through familiar streets",
+          "weight": 1
+        },
+        {
+          "text": "everyday surroundings",
+          "weight": 1
+        },
+        {
+          "text": "quiet local atmosphere",
+          "weight": 1
+        },
+        {
+          "text": "slow movement through the city",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "two_step_groove",
+      "type": "rhythm",
+      "positive": [
+        {
+          "text": "2-step groove",
+          "weight": 1
+        },
+        {
+          "text": "shuffled hi-hats",
+          "weight": 1
+        },
+        {
+          "text": "offbeat kick placement",
+          "weight": 1
+        },
+        {
+          "text": "tight snare",
+          "weight": 1
+        },
+        {
+          "text": "garage swing",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "off_grid_timing",
+      "type": "rhythm",
+      "positive": [
+        {
+          "text": "off-grid timing",
+          "weight": 1
+        },
+        {
+          "text": "irregular accents",
+          "weight": 1
+        },
+        {
+          "text": "natural gaps",
+          "weight": 1
+        },
+        {
+          "text": "unexpected accents",
+          "weight": 1
+        },
+        {
+          "text": "slightly imperfect timing",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "light_swing",
+      "type": "rhythm",
+      "positive": [
+        {
+          "text": "light swing",
+          "weight": 1
+        },
+        {
+          "text": "subtle swing",
+          "weight": 1
+        },
+        {
+          "text": "gentle rhythmic movement",
+          "weight": 1
+        },
+        {
+          "text": "controlled groove",
+          "weight": 1
+        },
+        {
+          "text": "relaxed timing",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "micro_percussion",
+      "type": "sound",
+      "positive": [
+        {
+          "text": "micro-percussion",
+          "weight": 1
+        },
+        {
+          "text": "tiny rhythmic details",
+          "weight": 1
+        },
+        {
+          "text": "small transient events",
+          "weight": 1
+        },
+        {
+          "text": "microscopic groove layers",
+          "weight": 1
+        },
+        {
+          "text": "high-detail rhythm",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    }
+  ],
+  "categories": [],
+  "label": "Jazzy 2Step 02",
+  "templateId": "default",
+  "fileName": "jazzy-2step-02.json"
+}

@@ -1,0 +1,214 @@
+{
+  "id": "f25707e6-e53a-4f0b-86bc-1e7f74aaa934",
+  "activeTags": [
+    {
+      "tagId": "memphis_underground",
+      "type": "genre",
+      "positive": [
+        {
+          "text": "Memphis Underground",
+          "weight": 1
+        },
+        {
+          "text": "Memphis Rap",
+          "weight": 1
+        },
+        {
+          "text": "cassette tape texture",
+          "weight": 1
+        },
+        {
+          "text": "lo-fi underground production",
+          "weight": 1
+        },
+        {
+          "text": "raw drum machine groove",
+          "weight": 1
+        },
+        {
+          "text": "dark southern atmosphere",
+          "weight": 1
+        },
+        {
+          "text": "street tape recordings",
+          "weight": 1
+        },
+        {
+          "text": "dirty low fidelity sound",
+          "weight": 1
+        },
+        {
+          "text": "underground horror atmosphere",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "city_pop_harmony",
+      "type": "style",
+      "positive": [
+        {
+          "text": "lush city pop harmony",
+          "weight": 1
+        },
+        {
+          "text": "maj7 chords",
+          "weight": 1
+        },
+        {
+          "text": "smooth transitions",
+          "weight": 1
+        },
+        {
+          "text": "nostalgic Japanese tone",
+          "weight": 1
+        },
+        {
+          "text": "clean guitar licks",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "vertical_city",
+      "type": "anime",
+      "positive": [
+        {
+          "text": "vertical city",
+          "weight": 1
+        },
+        {
+          "text": "multi-level urban environment",
+          "weight": 1
+        },
+        {
+          "text": "towers above crowded streets",
+          "weight": 1
+        },
+        {
+          "text": "elevated roads and lower districts",
+          "weight": 1
+        },
+        {
+          "text": "dense futuristic metropolis",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "deep_shuffled_two_step",
+      "type": "rhythm",
+      "positive": [
+        {
+          "text": "deep shuffled 2-step rhythm",
+          "weight": 1
+        },
+        {
+          "text": "dusty drum texture",
+          "weight": 1
+        },
+        {
+          "text": "tight hi-hats",
+          "weight": 1
+        },
+        {
+          "text": "solid snare placement",
+          "weight": 1
+        },
+        {
+          "text": "negative space",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "four_by_four",
+      "type": "rhythm",
+      "positive": [
+        {
+          "text": "steady four-on-the-floor pulse",
+          "weight": 1
+        },
+        {
+          "text": "4x4 kick",
+          "weight": 1
+        },
+        {
+          "text": "warm kick drum",
+          "weight": 1
+        },
+        {
+          "text": "club pulse",
+          "weight": 1
+        },
+        {
+          "text": "hypnotic repetition",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "glitch_micro_edits",
+      "type": "rhythm",
+      "positive": [
+        {
+          "text": "glitchy micro-edits",
+          "weight": 1
+        },
+        {
+          "text": "subtle glitch percussion accents",
+          "weight": 1
+        },
+        {
+          "text": "granular digital artifacts",
+          "weight": 1
+        },
+        {
+          "text": "micro rhythmic edits",
+          "weight": 1
+        },
+        {
+          "text": "fragmented digital textures",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    },
+    {
+      "tagId": "crunchy_drum_machine",
+      "type": "sound",
+      "positive": [
+        {
+          "text": "crunchy drum machine",
+          "weight": 1
+        },
+        {
+          "text": "overdriven drum hits",
+          "weight": 1
+        },
+        {
+          "text": "saturated drum transients",
+          "weight": 1
+        },
+        {
+          "text": "raw club percussion",
+          "weight": 1
+        },
+        {
+          "text": "distorted rhythmic texture",
+          "weight": 1
+        }
+      ],
+      "isRandom": true
+    }
+  ],
+  "categories": [],
+  "label": "Ultra Phonk 01",
+  "templateId": "default",
+  "fileName": "ultra-phonk-01.json"
+}
