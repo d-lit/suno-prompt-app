@@ -1,4 +1,5 @@
 import { ActivePromptTag, ActivePromptToken, PromptSide } from '~/types';
+import { normalizeTokenText, renderToken } from '~/utils';
 
 export const PROMPT_TYPE_ORDER = [
   'sound',
@@ -14,38 +15,6 @@ export const PROMPT_TYPE_ORDER = [
 
   '__template__',
 ];
-
-/**
- * Нормализует токен.
- *
- * Используется для dedupe.
- */
-const normalizeToken = (value: string) => {
-  return value.trim().toLowerCase();
-};
-
-/**
- * Рендерит токен в prompt string.
- */
-const renderToken = (token: ActivePromptToken) => {
-  /**
-   * weight <= 0
-   * считаем отключённым токеном.
-   */
-  if (token.weight <= 0) {
-    return '';
-  }
-
-  /**
-   * weight === 1
-   * рендерим без скобок.
-   */
-  if (token.weight === 1) {
-    return token.text;
-  }
-
-  return `(${token.text}:${token.weight})`;
-};
 
 type RenderPromptParams = {
   side: PromptSide;
@@ -116,7 +85,7 @@ export const renderPrompt = ({ activeTags, side }: RenderPromptParams) => {
         return;
       }
 
-      const key = normalizeToken(token.text);
+      const key = normalizeTokenText(token.text);
 
       const existing = tokenMap.get(key);
 

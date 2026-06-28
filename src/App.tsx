@@ -21,53 +21,20 @@ import {
   PromptTemplate,
 } from '~/types';
 import {
+  getActiveTagTypes,
   getCategories,
+  getFirstActiveType,
   getTagTypes,
-  getTemplateTokenKeys,
+  getTemplatePreloadTags,
   getVisibleTags,
   groupTagsByType,
-  isTagFullyIncludedInTemplate,
+  hasTemplateRuntimeTag,
 } from '~/utils';
 
 import { tags, templates } from './db';
 import { usePresets } from './hooks';
 
 const DEFAULT_TEMPLATE_ID = 'default';
-
-const getActiveTagTypes = (activeTags: ActivePromptTag[]) => {
-  const activeTypes = new Set<string>();
-
-  activeTags.forEach((activeTag) => {
-    if (activeTag.type) {
-      activeTypes.add(activeTag.type);
-
-      return;
-    }
-
-    const sourceTag = tags.find((tag) => tag.id === activeTag.tagId);
-
-    if (sourceTag) {
-      activeTypes.add(sourceTag.type);
-    }
-  });
-
-  return Array.from(activeTypes);
-};
-
-const getFirstActiveType = (
-  activeTags: ActivePromptTag[],
-  fallbackTypes: string[]
-) => {
-  return getActiveTagTypes(activeTags)[0] ?? fallbackTypes[0];
-};
-
-const getTemplatePreloadTags = (template: PromptTemplate) => {
-  const templateTokenKeys = getTemplateTokenKeys(template);
-
-  return tags.filter((tag) => {
-    return isTagFullyIncludedInTemplate(tag, templateTokenKeys);
-  });
-};
 
 const createTemplateRuntimeState = (template: PromptTemplate) => {
   const preloadTags = getTemplatePreloadTags(template);
@@ -76,15 +43,6 @@ const createTemplateRuntimeState = (template: PromptTemplate) => {
     createTemplateActiveTag(template),
     ...preloadTags.map(createActiveTag),
   ];
-};
-
-const hasTemplateRuntimeTag = (
-  activeTags: ActivePromptTag[],
-  templateId: string
-) => {
-  return activeTags.some((tag) => {
-    return tag.tagId === `template:${templateId}`;
-  });
 };
 
 export const App = () => {
@@ -384,63 +342,68 @@ export const App = () => {
   );
 
   const sidebarElement = (
-    <div
-      style={{
-        display: 'flex',
-        flexDirection: 'column',
-        rowGap: 16,
-      }}
-    >
-      <button
+    <div>
+      <div
         style={{
-          width: '100%',
+          display: 'flex',
+          flexDirection: 'column',
+          left: 24,
+          position: 'fixed',
+          rowGap: 16,
+          width: 400,
         }}
-        onClick={handleReset}
       >
-        Reset Workspace
-      </button>
+        <button
+          style={{
+            width: '100%',
+          }}
+          onClick={handleReset}
+        >
+          Reset Workspace
+        </button>
 
-      <TemplateSelect
-        templates={templates}
-        value={templateId}
-        onChange={handleTemplateChange}
-      />
-
-      <CategoryList
-        categories={categories}
-        selectedCategories={selectedCategories}
-        onToggle={handleCategoryToggle}
-      />
-
-      <div>
-        <TagTypeList
-          activeType={activeType}
-          activeTypes={activeTagTypes}
-          types={tagTypes}
-          onChange={handleTagTypeChange}
+        <TemplateSelect
+          templates={templates}
+          value={templateId}
+          onChange={handleTemplateChange}
         />
 
-        <div
-          style={{
-            display: 'flex',
-            flexDirection: 'column',
-            rowGap: 8,
-          }}
-        >
-          <PresetSelect
-            presets={presets}
-            value={presetId}
-            onChange={setPresetId}
+        <CategoryList
+          categories={categories}
+          selectedCategories={selectedCategories}
+          onToggle={handleCategoryToggle}
+        />
+
+        <div>
+          <TagTypeList
+            activeType={activeType}
+            activeTypes={activeTagTypes}
+            types={tagTypes}
+            onChange={handleTagTypeChange}
           />
-          {presetActionsElement}
-          <button
+
+          <div
             style={{
-              width: '100%',
+              display: 'flex',
+              flexDirection: 'column',
+              rowGap: 8,
             }}
-            onClick={handleRandom}
           >
-            Random
-          </button>
+            <PresetSelect
+              presets={presets}
+              value={presetId}
+              onChange={setPresetId}
+            />
+            {presetActionsElement}
+            <button
+              style={{
+                width: '100%',
+              }}
+              onClick={handleRandom}
+            >
+              Random
+            </button>
+          </div>
         </div>
       </div>
     </div>

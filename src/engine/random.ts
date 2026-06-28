@@ -1,4 +1,5 @@
 import { ActivePromptTag, PromptTag } from '~/types';
+import { getRandomRange, pickWeightedRandom, shuffle } from '~/utils';
 
 import { createActiveTag } from './createActiveTag';
 
@@ -59,81 +60,6 @@ const getRandomTypeOrder = (type: string) => {
   }
 
   return index;
-};
-
-/**
- * Возвращает перемешанную копию массива.
- */
-const shuffle = <T>(items: T[]) => {
-  return [...items].sort(() => {
-    return Math.random() - 0.5;
-  });
-};
-
-/**
- * Возвращает random weight тега.
- *
- * Если randomWeight не указан, тег участвует в random
- * с обычным весом 1.
- */
-const getRandomWeight = (tag: PromptTag) => {
-  return tag.randomWeight ?? 1;
-};
-
-/**
- * Возвращает random-диапазон min..max.
- *
- * Примеры:
- * 2      // min 0, max 2
- * [1, 3] // min 1, max 3
- * [2]    // min 2, max 2
- * 0      // отключено
- */
-const getRandomRange = (value: RandomConfigValue) => {
-  if (Array.isArray(value)) {
-    const fallbackValue = value[0] ?? 0;
-
-    return {
-      max: value.length > 1 ? value[1] : fallbackValue,
-      min: value.length > 1 ? value[0] : fallbackValue,
-    };
-  }
-
-  return {
-    max: value,
-    min: 0,
-  };
-};
-
-/**
- * Выбирает один тег с учётом randomWeight.
- *
- * Теги с randomWeight <= 0 исключаются.
- */
-const pickWeightedRandom = (tags: PromptTag[]) => {
-  const available = tags.filter((tag) => {
-    return getRandomWeight(tag) > 0;
-  });
-
-  if (available.length === 0) {
-    return undefined;
-  }
-
-  const totalWeight = available.reduce((sum, tag) => {
-    return sum + getRandomWeight(tag);
-  }, 0);
-
-  let threshold = Math.random() * totalWeight;
-
-  for (const tag of available) {
-    threshold -= getRandomWeight(tag);
-
-    if (threshold <= 0) {
-      return tag;
-    }
-  }
-
-  return available[0];
 };
 
 /**
